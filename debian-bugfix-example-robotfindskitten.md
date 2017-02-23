@@ -1,5 +1,5 @@
 
-# Debian bugfix exampel: robotfindskitten
+# Debian bugfix example: robotfindskitten
 
 ## Rationale 
 
