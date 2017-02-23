@@ -1,4 +1,8 @@
 
+# Debian bugfix example: bsdgames-wtf
+
+## Rationale
+
 So, I know that **bsdgames** is the package name for a collection of small
 console-based games, and that it is packaged for Debian and Ubuntu.  Because
 these are small programs with few dependencies, they make excellent examples
@@ -16,25 +20,32 @@ The resulting page shows that the package is available across multiple
 versions of Debian.  Let's choose the link for the *testing* version,
 codenamed *stretch*:
 
-  * []()
+  * [https://packages.debian.org/stretch/bsdgames](https://packages.debian.org/stretch/bsdgames)
 
 ## Using the Debian package-specific page
 
 Most of what we want from this page, then, is in the right-hand sidebar. We
 want to look at two things:
 
-  * The [list of bug reports]()
-  * The [original source]()
+  * The [list of bug reports](https://bugs.debian.org/bsdgames)
+  * The [original source](http://http.debian.net/debian/pool/main/b/bsdgames/bsdgames_2.17.orig.tar.gz)
 
 ## The package buglist
 
 For many packages, opening the bug reports shows a list of bugs listed by
 various categories of severity and categorization.
 
-At the time of this writing (late February 2017) we
-see 
+At the time of this writing (late February 2017) we see dozens of bugs
+against bsdgames.  One might read through them to see if there are any that
+interest you.  The one that stands out to me as being a potential easy win
+is updating the list of acronyms for the program `wtf`, [bug #798185](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=798185)
 
-Reading it we see that it has 
+Reading it we see that it has a link into relevant portion of the NetBSD
+project's web view of its CVS source code repository.
+
+This should be an easy fix, since all we need to do is to replace the Debian
+version of these files with the newer NetBSD version.
+
 
 ## Fixing the bug
 
@@ -69,22 +80,22 @@ keeping this simple, we'll disregard that for now.)
 You can download the source however you like, so long as you move it
 successfully into your 'rfk' directory. I'll use wget here:
 
-  * `wget  `
+  * `wget http://http.debian.net/debian/pool/main/b/bsdgames/bsdgames_2.17.orig.tar.gz`
 
-That should leave you with a copy of the file ``
+That should leave you with a copy of the file `bsdgames_2.17.orig.tar.gz`
 
 You can use a variety of methods to unpack this file. Here, I'll use the
 `tar` command:
 
-  * ``
+  * `tar xvzf bsdgames_2.17.orig.tar.gz`
 
 That creates and fills out a version-specific subdirectory for the code:
 
-  * ``
+  * `bsdgames_2.17`
 
 which we then descend into
 
-  * `cd `
+  * `cd bsdgames_2.17`
 
 At this point, we have a copy of the source code as received from upstream,
 clean and free from any of our modifications.
@@ -104,15 +115,12 @@ In the meantime, though, let's put it on GitHub.  _(A more Debian-like way of
 doing this would be to put the code on their Alioth code hosting site, but
 again, let's use what we know now for starters.)_
 
-So, log on to github and create a new project. Call it `rfk` or
-`robotfindskitten` as suits you.  (_The longer name is probably better, so
-that you can avoid a future conflict with the Markov bot you'll train
-against all the known recorded public speeches of the late Senator Robert F. 
-Kennedy._)
+So, log on to github and create a new project. You should probably just call
+it `bsdgames`.
 
 Back on your home system, in the subdirectory that contains the code, add your GitHub repo as a remote:
 
-  * `git remote add origin https://github.com/yourgithubnamehere/  `
+  * `git remote add origin https://github.com/yourgithubnamehere/bsdgames`
 
 Then, you should be able to push from your local to the remote with:
 
@@ -124,14 +132,27 @@ You might need more explicitly to specify:
 
 With that done, let's fix the bug!
 
-The bug report notes what is missing, and where. It's in the info file in
-the `doc` folder.
+Recall that the Debian bug report includes a link to a NetBSD web page.
 
-Open the file with an editor, navigate to the point at which it talks about
-how to quit the game, and add some text noting that hitting `q` does the job
-too.
+That link leads to [a directory](http://cvsweb.netbsd.org/bsdweb.cgi/src/share/misc/?only_with_tag=MAIN) that includes newer versions of the two acronym files `acronym` and `acronym.comp` used by this package in Debian.
 
-Then, once you've made the edit, commit your change, then push it to GitHub.
+If you go to that directory and then click on, just as an example, `acronym` you aren't taken to the file right away. Instead, you are taken to a list of revisions of that file. At the time of this writing (February 2017) the latest version is 1.252. 
+
+If you [click on that version number](http://cvsweb.netbsd.org/bsdweb.cgi/src/share/misc/acronyms?rev=1.252&content-type=text/x-cvsweb-markup&only_with_tag=MAIN)
+you'll be able to see the file contents, along with a download link.
+
+Download those two files and make sure they go into the appropriate places, and that you haven't introduced any additional cruft. 
+
+Using the command:
+
+  * git status
+
+copiously throughout this process is helpful to see what has changed, what
+might need to be added and committed to the repository, and what might need
+to be deleted.
+
+Once you have the newer files in place, commit your changes, then push them to
+GitHub.
 
 Navigate to GitHub, navigate through the `commit` portion of the web
 interface to find the link to your commit.  Copy the link, then go to the
