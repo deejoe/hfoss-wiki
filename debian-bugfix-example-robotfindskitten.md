@@ -106,7 +106,7 @@ let's make sure we have things squared away locally:
   * `git commit -m "first commit of code as downloaded from https://packages.debian.org/stretch/robotfindskitten"`
 
 This will be enough to track our changes locally. But we will also want to
-be able to communicated them to the Debian package maintainer for inclusion,
+be able to communicate them to the Debian package maintainer for inclusion,
 and possibly work on them collaboratively with other people.  Eventually, if
 all goes well, the changes will be in Debian, so that will meet that goal. 
 In the meantime, though, let's put it on GitHub.  _(A more Debian-like way of
