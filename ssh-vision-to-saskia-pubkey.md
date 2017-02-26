@@ -173,12 +173,11 @@ ask you to accept _banjo_'s public key:
 (I think everyone will be able to access _banjo_, and that a www subdirectory
 will already be on it and working.
 
-If not, we may have to create them by logging in with PuTTY or gitbash ssh, and then issuing:
+If not, we may have to create them by logging into _banjo_ with PuTTY or gitbash ssh, and then issuing:
 
-`
-    mkdir ~/www
-    chmod a+rx www
-`
+  * `mkdir ~/www`
+  * `chmod a+rx www`
+
 
 The first command creates the directory, the second command helps insure its
 contents can be read.)
