@@ -178,10 +178,14 @@ If not, we may have to create them by logging into _banjo_ with PuTTY or gitbash
   * `mkdir ~/www`
   * `chmod a+rx www`
 
-
 The first command creates the directory, the second command helps insure its
 contents can be read.)
 
+If `www` didn't exist when you tried the transfer, you may have to resend
+the `id_rsa.pub` file.  Then, you may also have to make `id_rsa.pub`
+readable, via
+
+  * `chmod a+r www/id_rsa.pub`
 
 When all is in place, you should be able to type into a browser the URL as
 above (but using your own account name in place of dce5678) and should be
