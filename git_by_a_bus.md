@@ -1,9 +1,22 @@
 
 # Using **git by a bus**
 
+  * [Cloning](#cloning)
+  * [Fetching and checking out branch **v2**](#fetch-and-checkout-v2)
+  * [Using **virtualenv**](#using-virtualenv)
+    * [Creating a virtual environment](#create-a-venv)
+    * [Activating and using a Python virtual environment](#activate-and-use-a-venv)
+    * [Installing a module into the `venv`](#install-a-module-into-venv)
+  * [Finally: Analyzing a project with GBAB ](#run-gbab-on-a-project)
+  * [Download the project source code](#download-project-source)
+  * [Run GBAB](#run-gbab)
+  * [A continuing tragedy: Windows, Python, and GBAB](#windows)
+
+
+
 Python on Windows 10 poses challenges to runing git-by-a-bus that seem to be less of a problem on GNU/Linux. So, most of this will focus on how to do this on our GNU/Linux host *saskia*. It might also work on *vision* or even *banjo*.
 
-## Cloning
+## Cloning <a name="cloning"/>
 
 First, let's make a subdirectory to contain everything:
 
@@ -15,7 +28,7 @@ We are using a [previous student's fork](https://github.com/ry60003333/git_by_a_
     git clone https://github.com/ry60003333/git_by_a_bus
     cd git_by_a_bus
 
-## Fetching and checking out branch **v2**
+## Fetching and checking out branch **v2** <a name="fetch-and-checkout-v2"/>
 
 Note well, though, that we are using a non-default branch, branch **v2**, which we must fetch and checkout explicitly:
 
@@ -29,9 +42,9 @@ We'll move up one level in the filesystem, just up a directory level:
 
 This allows the following downloads and additions to be managed independently of the git_by_a_bus local repository.
 
-## Using **virtualenv**
+## Using **virtualenv** <a name="using-virtualenv"/>
 
-### Creating a virtual environment
+### Creating a virtual environment <a name="create-a-venv"/>
 
 The first thing we'll do is create and populate a Python `virtual environment` to hold any additional Python modules we might need to download as dependencies for running GBAB.
 
@@ -59,7 +72,7 @@ and then try again to make the virtual environment by repeating the command from
 
     virtualenv venv
 
-### Activating and using a Python virtual environment
+### Activating and using a Python virtual environment <a name="activate-and-use-a-venv"/>
 
 We activate the virtual environment with:
 
@@ -69,7 +82,7 @@ We activate the virtual environment with:
 
 (Also note: when finish, you can exit the virtual environment with the **deactivate** command.)
 
-### Installing a module into the `venv`
+### Installing a module into the `venv` <a name="install-a-module-into-venv"/>
 
 Now, we go ahead and install `pygments`
 
@@ -79,9 +92,9 @@ As per the README there are also dependencies on `nose` and `wsgiref` but these 
 
 So far, so good.
 
-## Finally: Analyzing a project with GBAB 
+## Finally: Analyzing a project with GBAB <a name="run-gbab-on-a-project"/>
 
-### Download the project source code
+### Download the project source code <a name="download-project-source"/>
 
 Now, let's grab the project we're going to analyze.
 
@@ -89,7 +102,7 @@ Let's use [https://github.com/FOSSRIT/sugar-quickstart](https://github.com/FOSSR
 
     git clone https://github.com/FOSSRIT/sugar-quickstart
 
-### Run GBAB
+### Run GBAB <a name="run-gbab"/>
 
 and now let's run GBAB on it:
 
@@ -98,7 +111,7 @@ and now let's run GBAB on it:
 This should run for a while, generating a directory called `output`, and then populating it with analysis results.
 
 
-## A continuing tragedy: Windows, Python, and GBAB
+## A continuing tragedy: Windows, Python, and GBAB <a name="windows"/>
 
 On the Windows 10 lab machines, we have not yet gotten it to run. The
 installed Python 3.6.0 environment offers some challenges, not the least of
