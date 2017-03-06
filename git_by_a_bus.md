@@ -62,7 +62,7 @@ or possibly
 
     pip install --user virtualenv
 
-or if desparate we may need to run it as
+or if desperate we may need to run it as
 
     python -m pip install --user virtualenv 
 
