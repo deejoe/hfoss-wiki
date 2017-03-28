@@ -41,6 +41,9 @@ Because we are using two packages with the same name (that is,
 
 ## Using sugar-quickstart
 
+Follow the instructions in the README file of `liam/sugar-quickstart` and
+that of `FOSSRIT/sugar-quickstart` to build each activity.
+
 One important difference you should know about before using either
 repository is that the FOSSRIT quickstart is, more simply, a Sugar desktop
 activity source code repository, populated with the files and directories
@@ -50,9 +53,9 @@ Liam's quickstart, however, *creates* a Sugar desktop activity
 source code directory, and populates *that* directory with the requisite
 files and directories.
 
-In the end, the activities themselves are also different from one another.
-Allowing one to note the similarities and differences between them is one
-point of this assignment.
+In the end, the activities that result in the build process are themselves
+also different from one another.  Allowing one to note the similarities and
+differences between them is one point of this assignment.
 
 Follow along with, and then compare and contrast these simple Activities to, the hello world
 activity used in the [sugarlabs hello-world desktop activity development example](https://developer.sugarlabs.org/desktop-activity.md.html).
