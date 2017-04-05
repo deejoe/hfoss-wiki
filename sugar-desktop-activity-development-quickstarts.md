@@ -24,8 +24,8 @@ packages. You may have to respond to a few prompts along the way.
 ## Download sugar-quickstart source code
 
 Now, we'll download two different bare-bones Sugar activity source code
-repositories from github, one from [Liam Middlebrook's]() repository, one from
-the [FOSSRIT organization](). 
+repositories from github, one from [Liam Middlebrook's](http://github.com/liam-middlebrook/sugar-quickstart) repository, one from
+the [FOSSRIT organization](http://github.com/FOSSRIT/sugar-quickstart). 
 
 Because we are using two packages with the same name (that is,
 *sugar-quickstart*) we'll need to give each its own subdirectory.
