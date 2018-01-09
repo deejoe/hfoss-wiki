@@ -20,7 +20,7 @@ The resulting page shows that the package is available across multiple
 versions of Debian.  Let's choose the link for the *testing* version,
 codenamed *stretch*:
 
-  * [https://packages.debian.org/stretch/bsdgames](https://packages.debian.org/stretch/bsdgames)
+  * [https://packages.debian.org/buster/bsdgames](https://packages.debian.org/buster/bsdgames)
 
 ## Using the Debian package-specific page
 
@@ -38,13 +38,12 @@ various categories of severity and categorization.
 At the time of this writing (late February 2017) we see dozens of bugs
 against bsdgames.  One might read through them to see if there are any that
 interest you.  The one that stands out to me as being a potential easy win
-is updating the list of acronyms for the program `wtf`, [bug #798185](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=798185)
+is updating the list of acronyms for the program `wtf`, [bug #798185](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=798185) (still open January 2018).
 
 Reading it we see that it has a link into relevant portion of the NetBSD
 project's web view of its CVS source code repository.
 
-This should be an easy fix, since all we need to do is to replace the Debian
-version of these files with the newer NetBSD version.
+This should be an easy fix, since all we need to do is replace the Debian version of these files with the newer NetBSD version.
 
 
 ## Fixing the bug
@@ -70,15 +69,15 @@ In more detail, then:
 
 On a local machine, create a new directory, and then move down into it, eg:
 
-  * `mkdir rfk`
-  * `cd rfk`
+  * `mkdir bsdgames`
+  * `cd bsdgames`
 
 Now, let's grab the original source for the package. (It might be that the
 debian source packages provide important changes, but in the interest of
 keeping this simple, we'll disregard that for now.)
 
 You can download the source however you like, so long as you move it
-successfully into your 'rfk' directory. I'll use wget here:
+successfully into your 'bsdgames' directory. I'll use wget here:
 
   * `wget http://http.debian.net/debian/pool/main/b/bsdgames/bsdgames_2.17.orig.tar.gz`
 
@@ -105,12 +104,13 @@ let's make sure we have things squared away locally:
 
   * `git init`
   * `git add . `
-  * `git commit -m "first commit of code as downloaded from https://packages.debian.org/stretch/robotfindskitten"`
+  * `git commit -m "first commit of code as downloaded from https://packages.debian.org/stretch/bsdgames"`
 
 This will be enough to track our changes locally. But we will also want to
 be able to communicate them to the Debian package maintainer for inclusion,
 and possibly work on them collaboratively with other people.  Eventually, if
 all goes well, the changes will be in Debian, so that will meet that goal. 
+
 In the meantime, though, let's put it on GitHub.  _(A more Debian-like way of
 doing this would be to put the code on their Alioth code hosting site, but
 again, let's use what we know now for starters.)_
@@ -130,15 +130,17 @@ You might need more explicitly to specify:
 
   * `git push origin master`
 
+You might also need to set your [username and email address](https://help.github.com/articles/setting-your-username-in-git/).
+
 With that done, let's fix the bug!
 
 Recall that the Debian bug report includes a link to a NetBSD web page.
 
 That link leads to [a directory](http://cvsweb.netbsd.org/bsdweb.cgi/src/share/misc/?only_with_tag=MAIN) that includes newer versions of the two acronym files `acronym` and `acronym.comp` used by this package in Debian.
 
-If you go to that directory and then click on, just as an example, `acronym` you aren't taken to the file right away. Instead, you are taken to a list of revisions of that file. At the time of this writing (February 2017) the latest version is 1.252. 
+If you go to that directory and then click on, just as an example, `acronym` you aren't taken to the file right away. Instead, you are taken to a list of revisions of that file. At the time of this writing (January 2018) the latest version is 1.264. 
 
-If you [click on that version number](http://cvsweb.netbsd.org/bsdweb.cgi/src/share/misc/acronyms?rev=1.252&content-type=text/x-cvsweb-markup&only_with_tag=MAIN)
+If you [click on that version number](http://cvsweb.netbsd.org/bsdweb.cgi/src/share/misc/acronyms?rev=1.264&content-type=text/x-cvsweb-markup&only_with_tag=MAIN)
 you'll be able to see the file contents, along with a download link.
 
 Download those two files and make sure they go into the appropriate places, and that you haven't introduced any additional cruft. 
@@ -151,7 +153,7 @@ copiously throughout this process is helpful to see what has changed, what
 might need to be added and committed to the repository, and what might need
 to be deleted.
 
-Once you have the newer files in place, commit your changes, then push them to
+Once you have the newer files in place, add and commit your changes, then push them to
 GitHub.
 
 Navigate to GitHub, navigate through the `commit` portion of the web
