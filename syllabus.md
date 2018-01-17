@@ -51,8 +51,8 @@ While still a course where you will receive a letter grade, the spirit
 of the course is intended to be both open and fun.
 
 An open course – students will have access to the ‘document source’ for
-the syllabus. As a student of the class you have a right to [fork the upstream repository](http://github.com/ritjoe/hfoss)
-for this syllabus and other course content (library, wiki), make modifications, and
+the syllabus. As a student of the class you have a right to [fork the upstream repositories](http://github.com/ritjoe/hfoss)
+for this syllabus and other course content ([library](https://github.com/ritjoe/hfoss-library), [wiki](https://github.com/ritjoe/hfoss.wiki)), make modifications, and
 submit patches for review. Barring a troll festival, this can create a
 fun, dynamic environment in which the course curriculum can develop by
 the very same mechanism being taught during the semester
@@ -77,7 +77,7 @@ the instructor during the first week of class to make other arrangements.
 <a name="schedule"></a>
 ## Schedule
 
-Please see this living [schedule](schedule.org) which should be updated
+Please see this living [schedule](schedule) which should be updated
 throughout the semester.
 
 <a name="topics"></a>
@@ -112,15 +112,15 @@ See the [attendance page](attendance) for details.
 
 ## Grading
 
-Please see [grading policies](https://github.com/ritjoe/hfoss/wiki/grading/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading/grading-table)
+Please see [grading policies](grading/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading/grading-table)
 
 
 ## Blog Updates
 
 Students are *required* to keep a blog to which they post updates about
 their investigations, progress, success, and pitfalls. This blog can be
-hosted anywhere, but must be added to the course [participant page](/checkblogs) (there are instructions on how to do this in
-[*Homework - First Flight*](/hw/firstflight)). All blog posts are
+hosted anywhere, but must be added to the course [participant page](http://hfoss.rocfoss.org/participants) (there are instructions on how to do this in
+[*Homework - First Flight*](https://github.com/ritjoe/hfoss/wiki/firstflight)). All blog posts are
 syndicated to the blog aggregator [HFOSS Planet](https://people.rit.edu/djaigm/planet/hfoss/).
 
 > You must make at least one blog post per week to receive full credit.
