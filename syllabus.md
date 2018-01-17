@@ -112,7 +112,7 @@ See the [attendance page](attendance) for details.
 
 ## Grading
 
-Please see [grading policies](grading/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading/grading-table)
+Please see [grading policies](https://github.com/ritjoe/hfoss/wiki/grading/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading/grading-table)
 
 
 ## Blog Updates
@@ -120,7 +120,7 @@ Please see [grading policies](grading/grading-policies) and this [example table 
 Students are *required* to keep a blog to which they post updates about
 their investigations, progress, success, and pitfalls. This blog can be
 hosted anywhere, but must be added to the course [participant page](http://hfoss.rocfoss.org/participants) (there are instructions on how to do this in
-[*Homework - First Flight*](https://github.com/ritjoe/hfoss/wiki/firstflight)). All blog posts are
+[**First Flight**](https://github.com/ritjoe/hfoss/wiki/firstflight)). All blog posts are
 syndicated to the blog aggregator [HFOSS Planet](https://people.rit.edu/djaigm/planet/hfoss/).
 
 > You must make at least one blog post per week to receive full credit.
