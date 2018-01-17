@@ -1,0 +1,50 @@
+| week |   | dow | mon | dom | topic                        | assignment  | due              | notes            |
+|    1 | 2 | Wed | Jan |  17 | class intros, firstflight    | firstflight |                  |                  |
+|    1 | 3 | Fri | Jan |  19 | intros cont'd, ff cont'd     | watch FSF30 |                  |                  |
+|    2 | 1 | Mon | Jan |  22 | it's all text, discuss FSF30 |             |                  |                  |
+|    2 | 2 | Wed | Jan |  24 | smoketest1: saskia et al     |             | FSF30 watch (NG) |                  |
+|    2 | 3 | Fri | Jan |  26 | git1                         |             |                  |                  |
+|    3 | 1 | Mon | Jan |  29 |                              |             |                  |                  |
+|    3 | 2 | Wed | Jan |  31 | git3                         |             | firstflight (G)  |                  |
+|    3 | 3 | Fri | Feb |   2 |                              |             |                  |                  |
+|    4 | 1 | Mon | Feb |   5 |                              |             |                  |                  |
+|    4 | 2 | Wed | Feb |   7 |                              |             |                  | career fair      |
+|    4 | 3 | Fri | Feb |   9 |                              |             |                  |                  |
+|    5 | 1 | Mon | Feb |  12 |                              |             |                  |                  |
+|    5 | 2 | Wed | Feb |  14 |                              |             |                  |                  |
+|    5 | 3 | Fri | Feb |  16 |                              |             |                  |                  |
+|    6 | 1 | Mon | Feb |  19 |                              |             |                  |                  |
+|    6 | 2 | Wed | Feb |  21 |                              |             |                  |                  |
+|    6 | 3 | Fri | Feb |  23 |                              |             |                  |                  |
+|    7 | 1 | Mon | Feb |  26 |                              |             |                  |                  |
+|    7 | 2 | Wed | Feb |  28 |                              |             |                  |                  |
+|    7 | 3 | Fri | Mar |   2 |                              |             |                  |                  |
+|    8 | 1 | Mon | Mar |   5 |                              |             |                  |                  |
+|    8 | 2 | Wed | Mar |   7 |                              |             |                  |                  |
+|    8 | 3 | Fri | Mar |   9 |                              |             |                  |                  |
+|      |   |     |     |     |                              |             |                  | SPRING BREAK     |
+|    9 | 1 | Mon | Mar |  19 |                              |             |                  | GDC              |
+|    9 | 2 | Wed | Mar |  21 |                              |             |                  | GDC              |
+|    9 | 3 | Fri | Mar |  23 | NO CLASS                     |             |                  | GDC, libreplanet |
+|   10 | 1 | Mon | Mar |  26 |                              |             |                  |                  |
+|   10 | 2 | Wed | Mar |  28 |                              |             |                  |                  |
+|   10 | 3 | Fri | Mar |  30 |                              |             |                  |                  |
+|   11 | 1 | Mon | Apr |   2 |                              |             |                  |                  |
+|   11 | 2 | Wed | Apr |   4 |                              |             |                  |                  |
+|   11 | 3 | Fri | Apr |   6 |                              |             |                  |                  |
+|   12 | 1 | Mon | Apr |   9 |                              |             |                  |                  |
+|   12 | 2 | Wed | Apr |  11 |                              |             |                  |                  |
+|   12 | 3 | Fri | Apr |  13 |                              |             |                  |                  |
+|   13 | 1 | Mon | Apr |  16 |                              |             |                  |                  |
+|   13 | 2 | Wed | Apr |  18 |                              |             |                  |                  |
+|   13 | 3 | Fri | Apr |  20 |                              |             |                  |                  |
+|   14 | 1 | Mon | Apr |  23 |                              |             |                  |                  |
+|   14 | 2 | Wed | Apr |  25 |                              |             |                  |                  |
+|   14 | 3 | Fri | Apr |  27 |                              |             |                  |                  |
+|   15 | 1 | Mon | Apr |  30 |                              |             |                  |                  |
+|   15 | 2 | Wed | May |   2 |                              |             |                  |                  |
+|   15 | 3 | Fri | May |   4 |                              |             |                  |                  |
+|   16 | 1 | Mon | May |   7 |                              |             |                  |                  |
+|   16 | 2 | Wed | May |   9 |                              |             |                  |                  |
+
+[Academic Calendar 2017-2018](https://www.rit.edu/calendar/1718.html)
