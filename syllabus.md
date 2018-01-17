@@ -108,11 +108,11 @@ throughout the semester.
 
 Attendance is mandatory. Unexecused absences accrue a loss of points & a penalty of 5% off the total grade.
 
-See the [attendance page](attendance.md) for details.
+See the [attendance page](https://github.com/ritjoe/hfoss/wiki/attendance) for details.
 
 ## Grading
 
-Please see [grading policies](grading/grading-policies.md) and this [example table of full-semester grades](grading/grading-table.md)
+Please see [grading policies](grading/grading-policies) and this [example table of full-semester grades](grading/grading-table.org)
 
 
 ## Blog Updates
