@@ -47,4 +47,4 @@
 |   16 | 1 | Mon | May |   7 |                              |             |                  |                  |
 |   16 | 2 | Wed | May |   9 |                              |             |                  |                  |
 
-[Academic Calendar 2017-2018](https://www.rit.edu/calendar/1718.html)
+[[https://www.rit.edu/calendar/1718.html][Academic Calendar 2017-2018]]
