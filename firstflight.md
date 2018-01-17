@@ -26,7 +26,7 @@ particularly for informal communication.
     * Windows:
       * [HexChat](https://ghost.org/)
     * Mac OS X:
-      * Colloquy](http://colloquy.info/)
+      * [Colloquy](http://colloquy.info/)
       * [LimeChat](http://limechat.net/mac/)
     * Linux:
       * [weechat (console)](https://weechat.org/)
@@ -98,12 +98,12 @@ Once all the blog URLs are in hand, the Planet for the course can be hosted at
 
 ### Tasks:
 
-    1. Create a blog if you don’t already have one. There are lots of free
-       services available. You might try [Wordpress.com](http://wordpress.com) or
-       [GitHub Pages](https://github.com/blog/272-github-pages) or
-       [Ghost](https://ghost.org/).
-    2. Write an introductory post, detailing the process you went through
-       to complete the FirstFlight assignment.
+  1. Create a blog if you don’t already have one. There are lots of free
+     services available. You might try [Wordpress.com](http://wordpress.com) or
+     [GitHub Pages](https://github.com/blog/272-github-pages) or
+     [Ghost](https://ghost.org/).
+  2. Write an introductory post, detailing the process you went through
+     to complete the FirstFlight assignment.
 
 #### Note
 

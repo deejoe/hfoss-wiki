@@ -134,15 +134,13 @@ syndicated to the blog aggregator [HFOSS Planet](https://people.rit.edu/djaigm/p
 Blogging is good for you and good for the [FLOSS community at large](http://xkcd.com/979/).
 
 
-Team Projects
--------------
+## Team Projects
 
 There are two team projects in the course: A community architecture
 project and a final project.
 
 
-Lightning Talks - Extra Credit
-------------------------------
+## Lightning Talks - Extra Credit
 
 Every Friday for the first portion of class, any student has the
 opportunity to give a `lightning talk` on a topic of their chosing. Your
@@ -156,13 +154,12 @@ during a given class.  Talks will be chosen from among those offered by
 students on a `FIFO` basis.
 
 
-Bug Fix - Extra Credit
-----------------------
+## Bug Fix - Extra Credit
 
 You can earn extra credit by successfully fixing a bug in a FOSS
 project.
 
-You will receive +10 extra credit points towards your final grade for
+You will receive extra credit points towards your final grade for
 every pull request accepted by an independently-maintained project
 against a pre-existing bug (eg, fixing new bugs you found, or even
 generated don't count!).
@@ -170,8 +167,7 @@ generated don't count!).
 Send an [email to the instructor](email:deejoe@mail.rit.edu) with
 sufficient detail to confirm your bug fix was accepted.
 
-Accomodations
--------------
+## Accomodations
 
 RIT is committed to providing reasonable accommodations to students with
 disabilities. If you would like to request accommodations such as
@@ -181,8 +177,7 @@ Alumni Union, Room 1150; the Web site is www.rit.edu/dso. After you
 receive accommodation approval, it is imperative that you see me during
 office hours so that we can work out whatever arrangement is necessary.
 
-Academic Integrity
-------------------
+## Academic Integrity
 
 [RIT Honor Code](http://www.rit.edu/academicaffairs/policiesmanual/sectionA/honorcode.html)
 
