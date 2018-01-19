@@ -35,7 +35,7 @@ I'll try not to fuss too much about length. Quality, rather than quantity, is wh
   *  substantive
   *  good observation or comparison
   *  makes an argument
-  *  avoids [fallacies](fallacies.md)
+  *  avoids [fallacies](fallacies)
 
 Can make weekly blog post and assignment posts at one time, but must submit the link for each (eg, blog5, smoketest2) 
 
