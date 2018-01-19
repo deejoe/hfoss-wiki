@@ -1,3 +1,4 @@
+[#rit-foss IRC channel](http://webchat.freenode.net/?&channels=rit-foss)
 
 [https://github.com/ritjoe/hfoss/wiki](https://github.com/ritjoe/hfoss/wiki)
 
