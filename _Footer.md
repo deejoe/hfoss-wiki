@@ -1,0 +1,2 @@
+
+[wiki](https://github.com/ritjoe/hfoss/wiki) | [HFOSS ofcourse](http://hfoss.rocfoss.org) [participants](http://hfoss.rocfoss.org/participants) | [HFOSS GitHub repo](https://github.com/ritjoe/hfoss) | [hfoss-library](https://github.com/ritjoe/hfoss-library)
