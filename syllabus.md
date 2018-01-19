@@ -112,7 +112,7 @@ See the [attendance page](attendance) for details.
 
 ## Grading
 
-Please see [grading policies](https://github.com/ritjoe/hfoss/wiki/grading/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading/grading-table)
+Please see [grading policies](https://github.com/ritjoe/hfoss/wiki/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading-table)
 
 
 ## Blog Updates
