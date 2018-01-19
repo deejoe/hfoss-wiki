@@ -52,7 +52,7 @@ of the course is intended to be both open and fun.
 
 An open course – students will have access to the ‘document source’ for
 the syllabus. As a student of the class you have a right to [fork the upstream repositories](http://github.com/ritjoe/hfoss)
-for this syllabus and other course content ([library](https://github.com/ritjoe/hfoss-library), [wiki](https://github.com/ritjoe/hfoss.wiki)), make modifications, and
+for this syllabus and other course content ([library](https://github.com/ritjoe/hfoss-library), [wiki](https://github.com/ritjoe/hfoss/wiki)), make modifications, and
 submit patches for review. Barring a troll festival, this can create a
 fun, dynamic environment in which the course curriculum can develop by
 the very same mechanism being taught during the semester
