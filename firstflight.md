@@ -181,7 +181,7 @@ Tasks:
     can use the jflory7.yaml file as an example. You will want to make
     sure that you have $TERM in all lowercase. For example a student in
     HFOSS fall of 2014 would have their YAML file in the
-    /scripts/people/2014/fall folder.
+    /ofcourse-content/people/2014/fall folder.
     BE WARNED: Your .yaml file must match the format *exactly* (meaning
     it is case and whitespace sensitive.)
   * Once you've confirmed your .yaml file matches exactly, commit and
