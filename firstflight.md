@@ -176,7 +176,7 @@ Tasks:
     if you don’t have any experience with git.
   * Fork [the repository](https://github.com/ritjoe/hfoss) ([link to github help](https://help.github.com/articles/fork-a-repo/) on this).
   * Clone a local copy.
-  * Add a file in the /people/$YEAR/$TERM folder titled
+  * Add a file in the /ofcourse-content/people/$YEAR/$TERM folder titled
     $YOUR_IRC_NICK.yaml. Perhaps obviously, it is a [YAML file](http://www.yaml.org/). You
     can use the jflory7.yaml file as an example. You will want to make
     sure that you have $TERM in all lowercase. For example a student in
