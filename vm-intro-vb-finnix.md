@@ -10,10 +10,10 @@ MIPS running on an x86/arm64 host) it will be too slow for many uses.
 Hardware virtualization is fast for another OS on the same processor type.)
 
   * Go to finnix.org
-  * Find the x86/amd64 image 110 in the Downloads section
+  * Find the x86/amd64 image 111
   * download it
   * locate it on your computer 
-    * in D:/profiles/<netid>/Downloads
+    * in D:\Users\<netid>\Downloads
     * otherwise, move it
   * start VirtualBox
   * delete old VM
