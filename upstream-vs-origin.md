@@ -43,3 +43,6 @@ To read about it in the GitHub context, see:
   * https://help.github.com/articles/configuring-a-remote-for-a-fork/
   * https://help.github.com/articles/syncing-a-fork/
 
+
+[[https://github.com/ritjoe/hfoss/blob/master/assets/upstream-vs-origin.svg|upstream-vs-origin]]
+
