@@ -33,6 +33,7 @@ pip install ofcourse
 *takes some time to install, note dependency resolution and warnings*
 
 ```
+
 ## ofcourse: Populating a new course with example content
 
 mkdir ofcourse-demo
