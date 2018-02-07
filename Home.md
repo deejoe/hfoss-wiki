@@ -8,6 +8,7 @@
 
 ## Presentations
 
+  * [Python environments](python-environments)
   * [It's all text](its-all-text)
   * [Using multiple remotes: Upstream vs Origin](upstream-vs-origin)
   * [Virtual machine introduction: VirtualBox](vm-intro-vb-finnix)
@@ -25,7 +26,7 @@
 
   * [#rit-foss IRC channel](http://webchat.freenode.net/?&channels=rit-foss)
   * [course wiki](https://github.com/ritjoe/hfoss/wiki)
-  * [ofcourse instance](http://hfoss.rocfoss) [participants](http://hfoss.rocfoss/participants)
+  * [ofcourse instance](http://hfoss.rocfoss.org) [participants](http://hfoss.rocfoss.org/participants)
   * [Main course github repo](https://github.com/ritjoe/hfoss)
   * [HFOSS LIbrary](https://github.com/ritjoe/hfoss-library)
 
