@@ -17,8 +17,8 @@
 ## Administration
 
   * [Attendance](attendance)
-  * [Grading policy](grading/grading-policies)
-  * [Example grades table](grading/grading-table)
+  * [Grading policy](grading-policies)
+  * [Example grades table](grading-table)
   * [Schedule](schedule)
   * [Syllabus](syllabus)
 
