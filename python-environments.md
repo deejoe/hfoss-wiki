@@ -51,8 +51,8 @@ ls -lR people
 ofcourse validate
 ```
 
-# ofcourse run
-# point browser at https://localhost:5000
+    # ofcourse run
+    # point browser at https://localhost:5000
 
 ## ofcourse: Pulling in existing course content
 
@@ -69,8 +69,8 @@ ls -lR people
 
 ofcourse validate
 
-# ofcourse run
-# point browser at https://localhost:5000
+    # ofcourse run
+    # point browser at https://localhost:5000
 
 ```
 
