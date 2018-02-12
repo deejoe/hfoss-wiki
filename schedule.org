@@ -21,7 +21,7 @@
 |      |   |     |     |     |                                  |             | blog03           |                                 |      |   |     |     |     |
 |    4 | 3 | Fri | Feb |   9 | repositories, LT, kcgoe-gitlab   |             |                  |                                 |    4 | 3 | Fri | Feb |   9 |
 |------+---+-----+-----+-----+----------------------------------+-------------+------------------+---------------------------------+------+---+-----+-----+-----|
-|    5 | 1 | Mon | Feb |  12 | kcgoe-gitlab, bugfix             | bugfix      |                  |                                 |    5 | 1 | Mon | Feb |  12 |
+|    5 | 1 | Mon | Feb |  12 | kcgoe-gitlab, [[bugfix][bugfix]]             | [[bugfix][bugfix]]      |                  |                                 |    5 | 1 | Mon | Feb |  12 |
 |    5 | 2 | Wed | Feb |  14 |                                  |             |                  | FOSS Hours                      |    5 | 2 | Wed | Feb |  14 |
 |      |   |     |     |     |                                  |             | blog04           |                                 |      |   |     |     |     |
 |    5 | 3 | Fri | Feb |  16 |                                  |             |                  |                                 |    5 | 3 | Fri | Feb |  16 |
