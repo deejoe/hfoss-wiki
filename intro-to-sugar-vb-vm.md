@@ -19,7 +19,7 @@ but instead of using Finnix live image, we'll be using
 This is a customized instance of a [Debian Live Build](https://debian-live.alioth.debian.org/live-manual/stable/manual/html/live-manual.en.html#107)
 
 
-## Please download this image file
+## Please download an image file (.iso) from this directory
 
   * [20171009 Sugar Live Build](http://people.sugarlabs.org/%7Equozl/sugar-live-build-20171009/)
 
