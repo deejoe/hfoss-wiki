@@ -13,7 +13,7 @@ Hardware virtualization is fast for another OS on the same processor type.)
   * Find the x86/amd64 image 111
   * download it
   * locate it on your computer 
-    * in D:\Users\<netid>\Downloads
+    * in D:\Users\\<netid>\Downloads
     * otherwise, move it
   * start VirtualBox
   * delete old VM
