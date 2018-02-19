@@ -59,3 +59,18 @@ recommend keeping it simple:
 
 ## Begin exploring Sugar
 
+We ran into a current [known bug in Sugar](https://github.com/sugarlabs/sugar/issues/776) when launching our RLES VMs during Week 5.
+
+This is easily remedied, though: 
+
+Hitting Ctrl-2 will bring up the Home view.
+
+Hitting F6 or Alt-Shift-f bring up the frame.
+
+Several of the [Sugar environment hotkeys](https://wiki.sugarlabs.org/go/Hotkeys)
+make more sense when considered in light of the special symbology mapped to
+the keyboards of the [OLPC XO keyboard](http://wiki.laptop.org/go/Keyboard)
+
+See also [OLPC XO Keyboard shortcuts](http://wiki.laptop.org/go/Keyboard_shortcuts).
+
+
