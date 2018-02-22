@@ -29,7 +29,7 @@
 |    5 | 3 | Fri | Feb |  16 | Sugar on rlesvctr.main.ad.rit.edu |             |                  |                                 |    5 | 3 | Fri | Feb |  16 |
 |    6 | 1 | Mon | Feb |  19 | roundtable bugfix status          |             |                  |                                 |    6 | 1 | Mon | Feb |  19 |
 |      |   |     |     |     | XO hardware demonstration         |             |                  |                                 |      |   |     |     |     |
-|    6 | 2 | Wed | Feb |  21 | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja1.odp][OLPCKidsA]]                         |             |                  | FOSS Hours                      |    6 | 2 | Wed | Feb |  21 |
+|    6 | 2 | Wed | Feb |  21 | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja1.odp][OLPCKidsA]]                         |             | bugfix (G)       | FOSS Hours                      |    6 | 2 | Wed | Feb |  21 |
 |      |   |     |     |     |                                   |             | blog05           |                                 |      |   |     |     |     |
 |    6 | 3 | Fri | Feb |  23 |                                   |             |                  |                                 |    6 | 3 | Fri | Feb |  23 |
 |------+---+-----+-----+-----+-----------------------------------+-------------+------------------+---------------------------------+------+---+-----+-----+-----|
