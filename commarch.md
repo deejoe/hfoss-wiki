@@ -53,7 +53,8 @@ like https://github.com/FOSSRIT/sugar-quickstart
 ### 5.  Calculate your project's "Callaway Coefficient of Fail"
 
 Calculate your project's "Callaway Coefficient of Fail" using the rubric available here:
-http://hfoss17s-ritjoe.rhcloud.com/static/books/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
+
+https://github.com/ritjoe/hfoss/blob/master/assets/tomspotcallaway-howtotellifyourfossprojectisdoomedtofail.pdf
 
 See also: https://www.theopensourceway.org/wiki/How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL
 
@@ -104,5 +105,5 @@ Prepare in a brief slide-deck to present as a group to the class based on your r
 
 #### 9. Review your teammates' work 30 pts
 
-For more on 8 and 9, see [CommArch evaluation and presentation](commarch-eval-and-preso.md)
+For more on 8 and 9, see [CommArch evaluation and presentation](commarch-eval-and-preso)
 
