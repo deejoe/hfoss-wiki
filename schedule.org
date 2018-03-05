@@ -1,5 +1,4 @@
 
-
 |  w |   | dow | mon |  d | topic                                 | assignment            | due                   | notes                           | week |   | dow | mon | dom |
 |  e |   |     |     |  o |                                       |                       |                       |                                 |      |   |     |     |     |
 |  e |   |     |     |  m |                                       |                       |                       |                                 |      |   |     |     |     |
@@ -86,9 +85,9 @@
 | 16 | 1 | Mon | May |  7 |                                       |                       |                       |                                 |   16 | 1 | Mon | May |   7 |
 | 16 | 2 | Wed | May |  9 |                                       |                       |                       | FOSS Hours?                     |   16 | 2 | Wed | May |   9 |
 |----+---+-----+-----+----+---------------------------------------+-----------------------+-----------------------+---------------------------------+------+---+-----+-----+-----|
-|  w |   |     |     |  d |                                       |                       |                       |                                 |      |   |     |     |     |
+|  w |   | dow | mon |  d | topic                                 | assignment            | due                   | notes                           |      |   |     |     |     |
 |  e |   |     |     |  o |                                       |                       |                       |                                 |      |   |     |     |     |
-|  e |   | dow | mon |  m | topic                                 | assignment            | due                   | notes                           |      |   |     |     |     |
+|  e |   |     |     |  m |                                       |                       |                       |                                 |      |   |     |     |     |
 |  k |   |     |     |    |                                       |                       |                       |                                 |      |   |     |     |     |
 
 [[https://www.rit.edu/calendar/1718.html][Academic Calendar 2017-2018]]
