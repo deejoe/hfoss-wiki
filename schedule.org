@@ -53,28 +53,29 @@
 |    |   |     |     |    |                                           |                       |                       | SPRING BREAK                    |      |   |     |     |     |
 |----+---+-----+-----+----+-------------------------------------------+-----------------------+-----------------------+---------------------------------+------+---+-----+-----+-----|
 |  9 | 1 | Mon | Mar | 19 |                                           |                       |                       | GDC                             |    9 | 1 | Mon | Mar |  19 |
+|    |   | Tue | Mar | 20 |                                           |                       | commarchteam          |                                 |      |   |     |     |     |
 |  9 | 2 | Wed | Mar | 21 |                                           |                       | [[litreview3][litreview3]]            | GDC, FOSS Hours                 |    9 | 2 | Wed | Mar |  21 |
-|    |   |     |     |    |                                           |                       |                       | Eghbal 2 litreview3             |      |   |     |     |     |
+|    |   |     |     |    |                                           |                       | blog08                | Eghbal 2 litreview3             |      |   |     |     |     |
 |  9 | 3 | Fri | Mar | 23 | NO CLASS                                  |                       |                       | GDC                             |    9 | 3 | Fri | Mar |  23 |
 |    |   |     |     | 23 |                                           |                       |                       | libreplanet, Boston             |      |   |     |     |  23 |
 |    |   |     |     | 24 |                                           |                       |                       | libreplanet                     |      |   |     |     |  24 |
 | 10 | 1 | Mon | Mar | 26 | commarch present. (G)                     |                       | commarch present. (G) |                                 |   10 | 1 | Mon | Mar |  26 |
 |    |   |     |     |    |                                           |                       |                       |                                 |      |   |     |     |     |
 | 10 | 2 | Wed | Mar | 28 | commarch present. (G)                     |                       | commarch complete (G) | FOSS Hours                      |   10 | 2 | Wed | Mar |  28 |
-|    |   |     |     |    |                                           |                       |                       |                                 |      |   |     |     |     |
+|    |   |     |     |    |                                           |                       | blog09                |                                 |      |   |     |     |     |
 | 10 | 3 | Fri | Mar | 30 | LT                                        |                       |                       |                                 |   10 | 3 | Fri | Mar |  30 |
 |----+---+-----+-----+----+-------------------------------------------+-----------------------+-----------------------+---------------------------------+------+---+-----+-----+-----|
 | 11 | 1 | Mon | Apr |  2 |                                           |                       |                       |                                 |   11 | 1 | Mon | Apr |   2 |
-| 11 | 2 | Wed | Apr |  4 |                                           |                       |                       | FOSS Hours                      |   11 | 2 | Wed | Apr |   4 |
+| 11 | 2 | Wed | Apr |  4 |                                           |                       | blog10                | FOSS Hours                      |   11 | 2 | Wed | Apr |   4 |
 | 11 | 3 | Fri | Apr |  6 | LT                                        |                       |                       |                                 |   11 | 3 | Fri | Apr |   6 |
 | 12 | 1 | Mon | Apr |  9 |                                           |                       |                       |                                 |   12 | 1 | Mon | Apr |   9 |
-| 12 | 2 | Wed | Apr | 11 |                                           |                       |                       | FOSS Hours                      |   12 | 2 | Wed | Apr |  11 |
+| 12 | 2 | Wed | Apr | 11 |                                           |                       | blog11                | FOSS Hours                      |   12 | 2 | Wed | Apr |  11 |
 | 12 | 3 | Fri | Apr | 13 | LT                                        |                       |                       | CC Summit Toronto               |   12 | 3 | Fri | Apr |  13 |
 |    |   |     |     | 14 |                                           |                       |                       | CC Summit                       |      |   |     |     |  14 |
 |    |   |     |     | 15 |                                           |                       |                       | CC Summit                       |      |   |     |     |  15 |
 |----+---+-----+-----+----+-------------------------------------------+-----------------------+-----------------------+---------------------------------+------+---+-----+-----+-----|
 | 13 | 1 | Mon | Apr | 16 |                                           |                       |                       |                                 |   13 | 1 | Mon | Apr |  16 |
-| 13 | 2 | Wed | Apr | 18 |                                           |                       |                       | FOSS Hours                      |   13 | 2 | Wed | Apr |  18 |
+| 13 | 2 | Wed | Apr | 18 |                                           |                       | blog12                | FOSS Hours                      |   13 | 2 | Wed | Apr |  18 |
 | 13 | 3 | Fri | Apr | 20 | LT                                        |                       |                       |                                 |   13 | 3 | Fri | Apr |  20 |
 | 14 | 1 | Mon | Apr | 23 |                                           |                       |                       |                                 |   14 | 1 | Mon | Apr |  23 |
 | 14 | 2 | Wed | Apr | 25 |                                           |                       |                       | FOSS Hours                      |   14 | 2 | Wed | Apr |  25 |
