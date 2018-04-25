@@ -33,10 +33,10 @@ next to the description of that license element below (2 pt for each
 match).\\
 *
 
--  5.1) NC \_\_\_
--  5.2) SA \_\_\_
--  5.3) ND \_\_\_
--  5.4) BY \_\_\_
+-  5.1) NC ___
+-  5.2) SA ___
+-  5.3) ND ___
+-  5.4) BY ___
 
 -  A) You must convey the same rights "downstream" that were conveyed to
    you by "upstream".
