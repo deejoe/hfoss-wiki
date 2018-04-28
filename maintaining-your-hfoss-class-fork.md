@@ -55,9 +55,10 @@ student/hfoss/master:       A---[B]---/-----
                                     D     student/hfoss/feature2
 ```
 
-In a simple and common case, each commit adds a line to the end of the file. 
-A merge conflict arises because the merge algorithm cannot resolve the
-order in which to place the two new lines: Which line should be at the end?
+In a simple and common case for our class, each commit adds a line to the
+end of the YAML file.  A merge conflict arises because the merge algorithm
+cannot resolve the order in which to place the two new lines: Which line
+should be at the end?
 
 While this simple misordering can be fairly straightforward to resolve, more
 complicated conflicts can arise.
