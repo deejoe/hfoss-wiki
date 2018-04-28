@@ -46,13 +46,13 @@ assignment (C below) is merged upstream and pulled back in, a merge conflict
 (X) can occur:
 
 ```
-upstream/hfoss/master:  A---B-------C---X-
-                         \         /   / 
-                      	  \       C   / student/hfoss/feature1
-                           \     /   /   
-student/hfoss/master:       A---B --/-----
-                                 \ /
-                                  D     student/hfoss/feature2
+upstream/hfoss/master:  A---B--------C----X-
+                         \          /    / 
+                      	  \        C    / student/hfoss/feature1
+                           \      /    /   
+student/hfoss/master:       A---[B]---/-----
+                                   \ /
+                                    D     student/hfoss/feature2
 ```
 
 In a simple and common case, each commit adds a line to the end of the file. 
