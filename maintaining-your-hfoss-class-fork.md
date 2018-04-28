@@ -1,57 +1,78 @@
 
-You should maintain your fork of the `hfoss` class repository to keep it
-up-to-date both with
+A software `master` branch *by convention* always holds production quality
+code, well tested, containing no known bugs, etc.
+
+For our course, **production ready** means including all assignment
+key-value pairs the student has submitted upstream to date. It should be
+the **best**, most complete version of the student's YAML file.
+
+Maintain your fork of the `hfoss` class repository to keep it up-to-date
+both with
 
   * the upstream class repository
-  * the changes you've made in feature branches
+  * the changes you make in feature branches
 
-You can do the former by frequently pulling or fetching then merging from
-the upstream class repository.
+Do the former by frequently pulling, or fetching then merging, from the
+upstream class repository.
 
-The latter is more tricky. In order to give you practice using feature
-branches, we ask that you create a branch for each assignment you submit.
-You then add the a new YAML key and a corresponding URL value in that
-branch, and then submit a PR from that branch.
+The latter is more tricky.  In order to practice using feature branches,
+create a branch for each assignment you submit.  Then add a new YAML key and
+its corresponding URL value while in that branch.  Then submit a PR from
+that branch.
 
-This alone is fine so long as your feature branches are submitted with
-sufficient time for them to be merged into the upstream class repository,
-and then incorporated into the master branch of your fork, and from which
-you then 
+Doing so repeatedly goes smoothly so long as each addition is submitted,
+merged upstream, and the upstream branch incorporated into the local working
+master before creating the next feature branch.  In other words, all tends
+to go well so long as each change propogates across all the relevant
+branches before another change is introduced.
 
-
-
-upstream/hfoss/master:          A---B-------C---D-------E--
-                                 \   \     /     \     /
-student/hfoss/feature[1,2...]     \   \   C       \   E  
-                                   \   \ /         \ /  
-student/hfoss/master:               A---B-----------D---E--
+Here, we see that commit C makes it all the way upstream and all the way
+back into the student fork before D is introduced.  Because C is already
+included when D comes into each branch, no merge conflict arises:
 
 
-But in the case where a student tries to submit two assignments in parallel,
-(here shown as D and E) this can generate a merge conflict:
+```
+upstream/hfoss/master:          A---B-------C-------D--
+                                 \   \     / \     / \
+student/hfoss/feature[1,2...]     \   \   C   \   D   \
+                                   \   \ /     \ /     \
+student/hfoss/master:               A---B-------C-------D
+```
 
 
+But, should one introduce different changes into parallel branches, that is,
+submitting a second or subsequent assignment (D below) before a previous
+assignment (C below) is merged upstream and pulled back in, a merge conflict
+(X) can occur:
 
-upstream/hfoss/master:  A---B-------C---X
+```
+upstream/hfoss/master:  A---B-------C---X-
                          \         /   / 
                       	  \       C   / student/hfoss/feature1
                            \     /   /   
-student/hfoss/master:       A---B   /
+student/hfoss/master:       A---B --/-----
                                  \ /
                                   D     student/hfoss/feature2
+```
 
-In the simplest case, each commit represents adding a line to the end of the
-file, and the merge conflict arises from the merge algorithm not knowing in
-which order to place the two new lines. So, the merge conflict can be
-fairly straightforward to resolve.
+In a simple and common case, each commit adds a line to the end of the file. 
+A merge conflict arises because the merge algorithm cannot resolve the
+order in which to place the two new lines: Which line should be at the end?
 
-But, if the student's master branch does not merge commits from upstream for
-a long time, even more, and more difficult-to-resolve, conflicts can arise.
+While this simple misordering can be fairly straightforward to resolve, more
+complicated conflicts can arise.
 
-A way to avoid this is to make sure 
+Avoid these conflicts by ensuring each of your feature branches
+can be merged into your own `master` branch
 
-upstream/hfoss/master:          A---B-------C---D-------F--
-                                 \   \     /     \     /
-student/hfoss/feature[1,2...]     \   \   C       \   F  
-                                   \   \ / \       \ / \
-student/hfoss/master:               A---B---C-------D---F--
+```
+upstream/hfoss/master:          A---B-------C---D--
+                                 \   \     /   /
+student/hfoss/feature[1,2...]     \   \   C   D  
+                                   \   \ / \ / \
+student/hfoss/master:               A---B---C---D--
+```
+
+Again, changes from C are already included by the time the changes for D are
+introduced, precluding a conflict from C and D. 
+
