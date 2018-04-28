@@ -1,6 +1,8 @@
 
 # Using branches
 
+See also [Git branches in a nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
 Make liberal use of local branches to get the hang of making and committing
 changes, merging from upstream, or merging or rebasing across branches in
 your local repository. 

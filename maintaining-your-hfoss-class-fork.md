@@ -76,3 +76,5 @@ student/hfoss/master:               A---B---C---D--
 Again, changes from C are already included by the time the changes for D are
 introduced, precluding a conflict from C and D. 
 
+See also [Using branches](using-and-clearing-branches)
+
