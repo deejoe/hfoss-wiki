@@ -85,6 +85,8 @@ throughout the semester.
 
   * intro 
   * firstflight
+  ** exercise: IRC
+  ** exercise: email
   * topic: it's all text
   * topic: git before github
   * smoketest1: VMs & local computing
