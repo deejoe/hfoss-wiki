@@ -40,18 +40,16 @@ The following Freenode KB items cover the basics of using Freenode:
 * Once connected, [register your nick](https://freenode.net/kb/answer/registration). You will need to supply an email address to them.
 * Review [how Freenode channels work](https://freenode.net/kb/answer/channels) 
 
-Connecting with SASL https://freenode.net/kb/answer/sasl
+You may eventually find these more advanced topics useful
 
-Channel modes https://freenode.net/kb/answer/channelmodes
-
-Channel namespaces https://freenode.net/kb/answer/namespaces
-
-Extbans https://freenode.net/kb/answer/extbans
-
-User and project cloaks https://freenode.net/kb/answer/cloaks
-User modes https://freenode.net/kb/answer/usermodes
-[Resetting your password](https://freenode.net/kb/answer/sendpass)
-[Channel Guidelines](https://freenode.net/changuide)
+* [Resetting your password](https://freenode.net/kb/answer/sendpass)
+* [Channel Guidelines](https://freenode.net/changuide)
+* [Connecting with SASL](https://freenode.net/kb/answer/sasl)
+* [Channel modes](https://freenode.net/kb/answer/channelmodes)
+* [Channel namespaces](https://freenode.net/kb/answer/namespaces)
+* [Extbans](https://freenode.net/kb/answer/extbans)
+* [User and project cloaks](https://freenode.net/kb/answer/cloaks)
+* [User modes](https://freenode.net/kb/answer/usermodes)
 
 
 Freenode is a free and open source software community.  Its emphasis is more
