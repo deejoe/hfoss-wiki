@@ -1,20 +1,19 @@
 
 
-* Grading example
+| Graded activity                                            | count | pts each | pts total |
+|------------------------------------------------------------+-------+----------+-----------|
+| Participation & Practices                                  |    42 |        5 |       210 |
+| Weekly Blog                                                |    12 |       10 |       120 |
+| Quizzes                                                    |     2 |       20 |        40 |
+| Literature Review                                          |   >=2 |       20 |      >=40 |
+| Meetups                                                    |   >=2 |      ~20 |       ~40 |
+| First flight                                               |     1 |      100 |       100 |
+| Smoketest                                                  |     2 |       30 |        60 |
+| Bug fix                                                    |   >=1 |     >=50 |      >=50 |
+| Team Project 1: CommArch (Peer eval & presentation)        |     1 |      100 |       100 |
+| Team Project 2: Sugar Activity (Peer eval, pres, and repo) |     1 |      400 |       400 |
+|------------------------------------------------------------+-------+----------+-----------|
+| Total possible points                                      |       |          |      1160 |
 
-Please note that this is just an example, the type and number of assignments may vary.
-
-| Graded activity                                           | count | pts each | pts total |
-|-----------------------------------------------------------+-------+----------+-----------|
-| Participation & Practices                                 |    45 |        4 |       180 |
-| Weekly Blog                                               |    15 |        6 |        90 |
-| Quizzes                                                   |     2 |       20 |        40 |
-| Literature Review                                         |     3 |       20 |        60 |
-| Meetups                                                   |     3 |       20 |        60 |
-| First flight                                              |     1 |      100 |       100 |
-| Smoketest                                                 |     2 |       24 |        48 |
-| Bug fix                                                   |     1 |       60 |        60 |
-| Team Project 1: CommArch (Peer eval & presentation)       |     1 |      100 |       100 |
-| Team Project 2: OLPC Activity (Peer eval, pres, and repo) |     1 |      400 |       400 |
-|                                                           |       |          |      1138 |
+points earned x 4.0 / total possible points = grade on a 4 pt scale
 
