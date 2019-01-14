@@ -3,22 +3,10 @@
 
 ## Assignments
 
-  * [litreview2](litreview2)
-  * [Bugfix](bugfix)
-  * [litreview1](litreview1)
-  * [Meetups](meetups)
   * [First Flight](firstflight)
 
 ## Presentations & Exercises
 
-  * [Intro to Sugar using VirtualBox VM](intro-to-sugar-vb-vm)
-  * Debian bugfix examples/candidates [bsdgames-wtf](debian-bugfix-example-bsdgames-wtf) and [robotfindskitten](debian-bugfix-example-robotfindskitten)
-  * [FOSS Collections](foss-collections)
-  * [Adding a git remote, classroom machine FOSS survey example](foss-survey-git-remote-exercise)
-  * [Python environments](python-environments)
-  * [It's all text](its-all-text)
-  * [Using multiple remotes: Upstream vs Origin](upstream-vs-origin)
-  * [Virtual machine introduction: VirtualBox](vm-intro-vb-finnix)
   * [Rhetorical fallacies](fallacies)
 
 ## Administration
