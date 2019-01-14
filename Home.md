@@ -8,6 +8,9 @@
 ## Presentations & Exercises
 
   * [Rhetorical fallacies](fallacies)
+  * [IRC for FOSS@RIT](IRC)
+  * [irc-exercise](irc-exercise)
+  * [email-exercise](email-exercise)
 
 ## Administration
 
