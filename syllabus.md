@@ -10,8 +10,17 @@
  -   [Topics](#topics)
  -   [Grading](#grading)
  -   [Lightning Talks](#lightning-talks-extra-credit)
+ -   [Attendance](#attendance)
+ -   [Grading](#grading)
+ -   [Blog](#blog)
+ -   [Projects](#projects)
+ -   [Extra credit](#xc)
+ -   [Accomodations](#accomodations)
+ -   [Academic Integrity](#integrity)
+
 
 <a name="course-info"></a>
+
  -   **Instructor** - D. Joe Anderson [<deejoe@mail.rit.edu>](mailto:deejoe@mail.rit.edu)
  -   **Office:** MSS-3190, MSS-2175, GOL-3450
  -   **Office Hours:** Tuesday 5:00-5:30, MWF 10:05-10:45 am, by appointment
@@ -21,6 +30,7 @@
  The source for this syllabus can be found at [<https://github.com/ritjoe/hfoss>](https://github.com/ritjoe/hfoss)
 
 <a name="text-books"></a>
+
 ## Text Books
 
 There are a number of textbooks we’ll be referencing throughout the
@@ -30,6 +40,7 @@ or in the [library](https://github.com/ritjoe/hfoss-library) for your use.
 Purchase of a textbook is not required.
 
 <a name="what-you-ll-do"></a>
+
 ## What You’ll Do
 
 This course will introduce students to the Free and Open Source Software
@@ -45,6 +56,7 @@ which successful students in HFOSS will become a part.
 
 
 <a name="the-spirit-of-the-course"></a>
+
 ## The spirit of the course
 
 While still a course where you will receive a letter grade, the spirit
@@ -59,6 +71,7 @@ the very same mechanism being taught during the semester
 (community-driven).
 
 <a name="licensing"></a>
+
 ## Licensing
 
 All code developed by students in the course must be licensed (by the
@@ -75,12 +88,14 @@ If you do not wish to make your work public in this way, please contact
 the instructor during the first week of class to make other arrangements.
 
 <a name="schedule"></a>
+
 ## Schedule
 
 Please see this living [schedule](schedule) which should be updated
 throughout the semester.
 
 <a name="topics"></a>
+
 ## Topics
 
   * intro 
@@ -104,16 +119,22 @@ throughout the semester.
   * topic: FOSS history
   * project: game
 
+<a name="attendance"></a>
+
 ## Attendance
 
 Attendance is mandatory. Unexecused absences accrue a loss of points & a penalty of 5% off the total grade.
 
 See the [attendance page](attendance) for details.
 
+<a name="grading"></a>
+
 ## Grading
 
 Please see [grading policies](https://github.com/ritjoe/hfoss/wiki/grading-policies) and this [example table of full-semester grades](https://github.com/ritjoe/hfoss/wiki/grading-table)
 
+
+<a name="blog"></a>
 
 ## Blog Updates
 
@@ -131,12 +152,14 @@ syndicated to the blog aggregator [HFOSS Planet](https://people.rit.edu/djaigm/p
 
 Blogging is good for you and good for the [FLOSS community at large](http://xkcd.com/979/).
 
+<a name="projects"></a>
 
 ## Team Projects
 
 There are two team projects in the course: A community architecture
 project and a final project.
 
+<a name="xc"></a>
 
 ## Lightning Talks - Extra Credit
 
@@ -165,6 +188,8 @@ generated don't count!).
 Send an [email to the instructor](email:deejoe@mail.rit.edu) with
 sufficient detail to confirm your bug fix was accepted.
 
+<a name="accomodations"></a>
+
 ## Accomodations
 
 RIT is committed to providing reasonable accommodations to students with
@@ -174,6 +199,8 @@ contact the Disability Services Office. It is located in the Student
 Alumni Union, Room 1150; the Web site is www.rit.edu/dso. After you
 receive accommodation approval, it is imperative that you see me during
 office hours so that we can work out whatever arrangement is necessary.
+
+<a name="integrity"></a>
 
 ## Academic Integrity
 
