@@ -52,11 +52,11 @@ You may eventually find these more advanced topics useful
 * [User modes](https://freenode.net/kb/answer/usermodes)
 
 
-Freenode is a free and open source software community.  Its emphasis is more
+**Freenode is a free and open source software community.**  Its emphasis is more
 on supporting FOSS developers and users rather than producing software
 directly.  As such we might include it in our broader study of FOSS
 communities and practices, nothing for instance its stated
-[philosopy](Freenode https://freenode.net/philosophy) and
+[philosopy](https://freenode.net/philosophy) and
 [policies](https://freenode.net/policies) and comparing and contrasting to
 other FOSS communities.
 
