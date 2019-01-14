@@ -13,8 +13,8 @@
 
 <a name="course-info"></a>
  -   **Instructor** - D. Joe Anderson [<deejoe@mail.rit.edu>](mailto:deejoe@mail.rit.edu)
- -   **Office:** GOL-2500, GOL-3450
- -   **Office Hours:** Wednesday 4:15-5:15pm, MWF 10:05-10:50am
+ -   **Office:** MSS-3190, MSS-2175, GOL-3450
+ -   **Office Hours:** Tuesday 5:00-5:30, MWF 10:05-10:45 am, by appointment
  -   **Teaching Assistant** - None 
  -   **IRC** - irc.freenode.net, #rit-foss
 
@@ -123,9 +123,7 @@ hosted anywhere, but must be added to the course [participant page](http://hfoss
 [**First Flight**](https://github.com/ritjoe/hfoss/wiki/firstflight)). All blog posts are
 syndicated to the blog aggregator [HFOSS Planet](https://people.rit.edu/djaigm/planet/hfoss/).
 
-> You must make at least one blog post per week to receive full credit.
-> This is in addition to any assignments that are posted to your blog
-> for that week.
+> You must make at least one blog post per week (up to 12) to receive full credit.
 > You must participate regularly in the course’s IRC channel: asking and
 > answering questions.
 > Contributions to the course curriculum, syllabus, and rubric are
