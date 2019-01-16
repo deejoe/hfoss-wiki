@@ -63,7 +63,7 @@ device).
 
 ## Email: Mailman
 
-For this course, we use the [floss-seminar discussion mailing list](https://lists.rit.edu/mailman/listinfo.mmcgi/floss-seminar). 
+For this course, we use the [floss-seminar discussion ](https://lists.rit.edu/mailman/listinfo.mmcgi/floss-seminar) mailing list. 
 [Please subscribe, as part of this exercise](email-exercise).
 
 Discussion mailing lists are a more formal mechanism of communication
