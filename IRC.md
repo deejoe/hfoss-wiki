@@ -135,6 +135,8 @@ foss_bot tracks karma
 foss_bot helps us manage class meetings. As such, it sometimes logs the
 channel in a highly visible (though not entirely public) way.
 
+Read more about [using something like foss_bot for meetings](https://fedoraproject.org/wiki/Meeting:Guide).
+
 ### Other bots
 
 Other bots include:
@@ -270,6 +272,7 @@ nicks.
 
 *Matrix is FOSS.*
 
+Read more about [using Matrix](https://opensource.com/article/17/5/introducing-riot-IRC).
 
 ### Telegram
 
