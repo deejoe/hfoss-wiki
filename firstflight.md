@@ -83,7 +83,7 @@ least one post per week about your progress, attempts, successes,
 failures, reflections, and/or all of the above.
 
 Much like mailing lists, blogs are archived, indexed by search engines like
-Google and archivers like the Wayback Machine, and therefore can be
+Google and archivers like [the Wayback Machine](https://archive.org), and therefore can be
 preserved for posterity.  When you encounter a technical challenge,
 typically you google for a solution and you typically find that solution in
 a blog post of some developer who has run into a similar situation. 
@@ -94,7 +94,7 @@ knowledge available, for increasing the [Wisdom of the Ancients](http://xkcd.com
 Blogs around a topic are also typically aggregated by a planet (an RSS
 feed aggregator). This way, all developers blogging about Project X can
 have their blog posts fast-tracked to a readership subscribed to Planet
-X. For instance, here’s a link to [13]Planet Python.
+X. For instance, here’s a link to [Planet Python](https://www.planetpython.org/).
 
 Once all the blog URLs are in hand, the Planet for the course can be hosted at
 [http://people.rit.edu/djaigm/planet/hfoss](http://people.rit.edu/djaigm/planet/hfoss)
