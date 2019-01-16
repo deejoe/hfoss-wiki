@@ -64,7 +64,7 @@ device).
 ## Email: Mailman
 
 For this course, we use the [floss-seminar discussion mailing list](https://lists.rit.edu/mailman/listinfo.mmcgi/floss-seminar). 
-Please subscribe, as part of this exercise.
+[Please subscribe, as part of this exercise](email-exercise).
 
 Discussion mailing lists are a more formal mechanism of communication
 for FOSS projects. More formal than IRC, less formal than bug trackers.
