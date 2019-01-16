@@ -14,8 +14,9 @@ First Flight comes in three phases:
 
 ## IRC
 
-There is an IRC channel on irc.freenode.net for this course, called #rit-foss. 
-Join this channel and use it whenever you can. Communicating regularly in IRC factors into the FOSS Dev Practices component of your final grade.
+There is an [IRC](IRC) channel on irc.freenode.net for this course, called #rit-foss. 
+[Join this channel and use it](irc-exercise) whenever you can. Communicating regularly in IRC factors into the FOSS Dev Practices 
+(daily) component of your final grade.
 
 IRC is one of the primary means of communication for a FOSS community,
 particularly for informal communication.
