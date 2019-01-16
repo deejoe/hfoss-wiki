@@ -25,7 +25,7 @@ particularly for informal communication.
 
   * Download and install an IRC client on your development machine.
     * Windows:
-      * [HexChat](https://ghost.org/)
+      * [HexChat](https://hexchat.github.io/)
     * Mac OS X:
       * [Colloquy](http://colloquy.info/)
       * [LimeChat](http://limechat.net/mac/)
