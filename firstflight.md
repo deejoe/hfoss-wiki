@@ -34,7 +34,9 @@ particularly for informal communication.
       * [irssi (console)](http://irssi.org/)
       * [HexChat](http://hexchat.github.io/)
     * Web:
-      * [IRCCloud](https://www.irccloud.com/)
+      * [IRCCloud](https://www.irccloud.com/) ([SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html))
+      * [Kiwi IRC (self-hostable](https://kiwiirc.com/)
+      * [qwebirc (self-hostable)](https://qwebirc.org/)
   * Choose a nick and [register yourself with the NickServ](http://freenode.net/kb/answer/registration).
   * Connect to #rit-foss on irc.freenode.net and introduce yourself.
     + The instructor’s nick is dzho.
