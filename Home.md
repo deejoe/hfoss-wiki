@@ -11,6 +11,7 @@
   * [IRC for FOSS@RIT](IRC)
   * [irc-exercise](irc-exercise)
   * [email-exercise](email-exercise)
+  * [github-exercise](github-exercise)
 
 ## Administration
 
