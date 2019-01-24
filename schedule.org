@@ -17,7 +17,7 @@
 |-----------+-----+-----+-------+-----------------------------------+------------------------+------------------+----------------------+-----------+-----+-----+-----+---+---+---+---+---+---|
 | w02d01    | Mon | Jan |    21 | *****                             | **********             | ***              | no classes - MLK Jr  | w02d01    | Mon | Jan |  21 |   |   |   |   |   |   |
 |           | Tue | Jan |    22 |                                   |                        |                  | Last day of Add/Drop |           |     |     |     |   |   |   |   |   |   |
-| w02d02    | Wed | Jan |    23 | PuTTY, saskia, vision             | [[https://www.chiark.greenend.org.uk/~sgtatham/bugs.html][litrev1 tatham]]         | [[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]]  (G) |                      | w02d02    | Wed | Jan |  23 |   |   |   |   |   |   |
+| w02d02    | Wed | Jan |    23 | PuTTY, saskia, vision             | [[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 tatham et al]]   | [[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]] (G)  |                      | w02d02    | Wed | Jan |  23 |   |   |   |   |   |   |
 |           |     |     |       |                                   |                        | blog02           |                      |           |     |     |     |   |   |   |   |   |   |
 | w02d03    | Fri | Jan |    25 | LT, it's all text                 |                        |                  |                      | w02d03    | Fri | Jan |  25 |   |   |   |   |   |   |
 |-----------+-----+-----+-------+-----------------------------------+------------------------+------------------+----------------------+-----------+-----+-----+-----+---+---+---+---+---+---|
