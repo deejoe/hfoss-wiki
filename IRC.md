@@ -169,6 +169,8 @@ Try, for instance, something along the lines of:
 
 Managed by jwf/jflory. Powered by [Limnoria](https://github.com/ProgVal/Limnoria). Config found [here](https://github.com/jwflory/infrastructure/blob/master/roles/irc/limnoria/templates/limnoria-fanshawe.conf).
 
+fanshawe's addressing prefix is a single period: `.duckduckgo Hello world!`
+
 #### xbot1313 
 
 Managed by xforever1313. It is sensitive to ALL CAPS.
