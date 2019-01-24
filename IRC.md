@@ -165,9 +165,9 @@ Try, for instance, something along the lines of:
 
 `!cowsay Hello, world!`
 
-#### fanshaw
+#### fanshawe
 
-Managed by jwf/jflory
+Managed by jwf/jflory. Powered by [Limnoria](https://github.com/ProgVal/Limnoria). Config found [here](https://github.com/jwflory/infrastructure/blob/master/roles/irc/limnoria/templates/limnoria-fanshawe.conf).
 
 #### xbot1313 
 
