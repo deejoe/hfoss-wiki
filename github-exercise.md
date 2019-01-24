@@ -69,7 +69,7 @@ git commit -m "Adding YAML file for HFOSS Spring 2019 student myusername"
 git push
 ```
 
-Return to a web broser and navigate to the page for your fork.
+Return to a web browser and navigate to the page for your fork.
 
 Navigate under `branches` to `firstflight`
 
