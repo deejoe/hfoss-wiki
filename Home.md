@@ -4,6 +4,7 @@
 ## Assignments
 
   * [First Flight](firstflight)
+  * [first literature review](litreview1)
 
 ## Presentations & Exercises
 
@@ -12,6 +13,7 @@
   * [irc-exercise](irc-exercise)
   * [email-exercise](email-exercise)
   * [github-exercise](github-exercise)
+  * [It's All Text](its-all-text)
 
 ## Administration
 
