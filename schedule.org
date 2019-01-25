@@ -19,7 +19,7 @@
 |           | Tue | Jan |    22 |                                   |                        |                  | Last day of Add/Drop |           |     |     |     |   |   |   |   |   |   |
 | w02d02    | Wed | Jan |    23 | PuTTY, saskia, vision             | [[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 tatham et al]]   | [[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]] (G)  |                      | w02d02    | Wed | Jan |  23 |   |   |   |   |   |   |
 |           |     |     |       |                                   |                        |                  |                      |           |     |     |     |   |   |   |   |   |   |
-| w02d03    | Fri | Jan |    25 | LT, it's all text                 |                        |                  |                      | w02d03    | Fri | Jan |  25 |   |   |   |   |   |   |
+| w02d03    | Fri | Jan |    25 | LT, [[https://github.com/ritjoe/hfoss/wiki/its-all-text][it's all text]]                 |                        |                  |                      | w02d03    | Fri | Jan |  25 |   |   |   |   |   |   |
 |-----------+-----+-----+-------+-----------------------------------+------------------------+------------------+----------------------+-----------+-----+-----+-----+---+---+---+---+---+---|
 | w03d01    | Mon | Jan |    28 | smoketest1 VirtualBox intro       |                        |                  |                      | w03d01    | Mon | Jan |  28 |   |   |   |   |   |   |
 | w03d02    | Wed | Jan |    30 | git1                              | [[bugfix][bugfix]]                 | [[https://www.chiark.greenend.org.uk/~sgtatham/bugs.html][litrev1 tatham]]   |                      | w03d02    | Wed | Jan |  30 |   |   |   |   |   |   |
