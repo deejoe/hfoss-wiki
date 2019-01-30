@@ -75,7 +75,20 @@ student/hfoss/master:               A---B---C---D--
 ```
 
 Again, changes from C are already included by the time the changes for D are
-introduced, precluding a conflict from C and D. 
+introduced, precluding a conflict from C and D.
+
+Perhaps better would be to branch your second feature branch from the first.
+
+That way, even if a pull request for C is not submitted or not merged upstream first (*), it can be merged with D more cleanly within a context that carries less ambiguity:
+
+```
+upstream/hfoss/master:  A---B-------*---C,D-
+                         \   \     /    / 
+                      	  \   \   C    / student/hfoss/feature1
+                           \   \ /  \ /   
+student/hfoss/master:       A---B----D-----
+                                     ^student/hfoss/feature2
+``` 
 
 See also [Using branches](using-and-clearing-branches)
 
