@@ -28,7 +28,7 @@ you *already use*, something with which you're already familiar. If you
 can't think of any projects to investigate off the top of your head,
 here's a list of suggestions.
 
-  * Check out the "easy-fix" bugs `Listed by the Fedora Project`
+  * Check out the ["easy-fix" bugs](https://fedoraproject.org/easyfix/) `Listed by the Fedora Project`
   * Look at [Python easy issues](https://bugs.python.org/issue?status=1&@sort=-activity&@dispname=Easy%20issues&@startwith=0&@filter=&@group=priority&@columns=id,activity,title,creator,status&keywords=6&@action=search&@pagesize=50)
   * Use the search function at [GitHub](http://github.com/) and filter by language (to a language that you know).
   * You could even look up some of the bounties (AKA Bugs that you get paid to squash) at [Bountysource](https://www.bountysource.com/trackers).
