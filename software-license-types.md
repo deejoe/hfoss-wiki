@@ -25,7 +25,7 @@ Proprietary can accept permissively licensed works.
 Some permissive licensing advocates reject copyleft *but* tolerate proprietary 
 incorporation of permissively licensed work.
 
-There's a split within copyleft camp about the importance of pursuiing copyleft 
+There's a split within copyleft camp about the importance of pursuing copyleft 
 enforcement.
 
 Some types of copyleft can conflict: ZFS under CDDL which (at least by some 
@@ -37,3 +37,22 @@ LGPL
 
 AGPL
 
+### Criteria
+
+[FSF Free Software Definition: Four Freedoms](https://www.gnu.org/philosophy/free-sw.en.html)
+
+[Debian: Social contract and Free Software Guidelines (DFSG)](https://www.debian.org/social_contract)
+
+[Open Source Initiative: Open Source Definition (OSD)](https://opensource.org/osd-annotated)
+
+[OpenBSD Copyright Policy](https://www.openbsd.org/policy.html)
+
+[Apache: Software License Criteria](https://www.apache.org/legal/resolved.html#criteria)
+
+### Licenses
+
+[FSF License List](https://www.gnu.org/licenses/license-list.en.html)
+
+[OSI Licenses & Standards](https://opensource.org/licenses)
+
+[Apache: Category A (included)](https://www.apache.org/legal/resolved.html#what-can-we-include-in-an-asf-project-category-a) vs [Apache: Category X (excluded)](https://www.apache.org/legal/resolved.html#what-can-we-not-include-in-an-asf-project-category-x)
