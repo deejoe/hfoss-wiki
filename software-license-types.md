@@ -25,6 +25,9 @@ Proprietary can accept permissively licensed works.
 Some permissive licensing advocates reject copyleft *but* tolerate proprietary 
 incorporation of permissively licensed work.
 
+![relationship amongst different licensing realms](https://github.com/ritjoe/hfoss/blob/master/assets/licensing-realms.svg)
+
+
 There's a split within copyleft camp about the importance of pursuing copyleft 
 enforcement.
 
