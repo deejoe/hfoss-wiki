@@ -42,15 +42,15 @@ Fetch, and then push to your own branch on the repo.
 If you already have your commits in a local branch named after yourself, you
 can just
 
-```git push upstream <deejoe>```
+```git push upstream ```*deejoe*
 
 If your local working copy has your commits to the default ```master```
 branch, you'll need to push it to a different branch on the remote side. 
 Give the branch the same name as the name of your yaml file:
 
-```git push upstream master:<deejoe>```
+```git push upstream master:```*deejoe*
 
-(in either case, using your own nickname in place of <deejoe>)
+(in either case, using your own nickname in place of *deejoe*)
 
 (If you do not specify the branch to push, you will be prompted to set a default branch to use with this remote.)
 
