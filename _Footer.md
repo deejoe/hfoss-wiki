@@ -1,2 +1,2 @@
 
-[wiki](https://github.com/ritjoe/hfoss/wiki) | [HFOSS ofcourse](http://hfoss.rocfoss.org) [participants](http://hfoss.rocfoss.org/participants) | [HFOSS GitHub repo](https://github.com/ritjoe/hfoss) | [hfoss-library](https://github.com/ritjoe/hfoss-library) | [IRC](http://webchat.freenode.net/?&channels=rit-foss)
+[wiki](https://github.com/ritjoe/hfoss/wiki) | [HFOSS ofcourse](http://hfoss.rocfoss.org) [participants](http://hfoss.rocfoss.org/participants) | [HFOSS GitHub repo](https://github.com/ritjoe/hfoss) | [hfoss-library](https://github.com/ritjoe/hfoss-library) | [IRC](https://webchat.freenode.net/?&channels=rit-foss) [schedule](https://github.com/ritjoe/hfoss/wiki/schedule) [
