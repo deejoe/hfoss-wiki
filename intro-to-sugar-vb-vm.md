@@ -47,7 +47,9 @@ the VM in the VirtualBox storage configuration window.
 ## Do the installation.
 
 You will need to switch to the `list view` to start the Terminal activity, 
-then issue `sudo liveinst`
+then issue `sudo liveinst` as per:
+
+[Fedora-SoaS-Live-29_install](https://wiki.sugarlabs.org/go/Fedora-SoaS-Live-29_install)
 
 During the installation, you will be asked to create
 
