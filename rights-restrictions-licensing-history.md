@@ -80,7 +80,7 @@ AT&T monopoly, consent decree restricting it from computing business
 
 ### late 1960s
 
-Multics --> Spacewar+PDB --> C+Unix --> Berkeley
+Multics --> Spacewar+PDB --> C+[Unix](https://en.wikipedia.org/wiki/File:Unix_history-simple.svg) --> Berkeley
 
 ### 1970s 
 
