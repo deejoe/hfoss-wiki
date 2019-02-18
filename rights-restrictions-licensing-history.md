@@ -84,7 +84,7 @@ Multics --> Spacewar+PDB --> C+[Unix](https://en.wikipedia.org/wiki/File:Unix_hi
 
 ### 1970s 
 
-Honeywell vs. Sperry-Univac case breaks fundamental computing patents.
+[Honeywell vs. Sperry Rand](https://en.wikipedia.org/wiki/Honeywell,_Inc._v._Sperry_Rand_Corp.) ENIAC patents (licensed to IBM) were invalidated.
 
 deregulatory spirit, eg
 
@@ -130,7 +130,7 @@ Proprietary Unix versions: SunOS, Solaris, IRIX, AIX, HP-UX, Ultrix, Xenix
 
 Puts it on Usenet (store-and-forward, "news", groups, subscribe, tracked what was read) and FTP (pre HTTP file transfer, see also gopher)
 
-Linux kernel + GNU utilities --> a useful system
+[Linux kernel](https://en.wikipedia.org/wiki/Linux_distribution#/media/File:Linux_Distribution_Timeline.svg) + GNU utilities --> a useful system
 
 grew alongside the BSDs 
 
