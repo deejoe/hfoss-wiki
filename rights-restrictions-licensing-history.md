@@ -2,7 +2,7 @@
 ### Rights, restrictions, and licensing: History
 
 An attempt to put the [history of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software) in the context of the broader sweep of 
-history.
+history, mostly but not entirely in a US context.
 
 ### through 15th century:
 
