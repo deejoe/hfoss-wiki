@@ -91,7 +91,7 @@ deregulatory spirit, eg
   * airlines
   * homebrewing
 
-Forgot to mention 1970s birth (MITS ALTAIR, MS BASIC) and rise (IBM, Apple, TRS-80, TI-99/A, Timex/Sinclair, etc) of the personal computer using integrated circuit microprocessors.
+1970s birth ([MITS ALTAIR](https://en.wikipedia.org/wiki/Altair_8800), [MS BASIC](https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists)) and rise (IBM, Apple, TRS-80, TI-99/A, Timex/Sinclair, etc) of the personal computer using integrated circuit microprocessors.
 
 ### 1980s 
 
