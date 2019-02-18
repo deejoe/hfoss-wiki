@@ -8,7 +8,7 @@ history, mostly but not entirely in a US context.
 
 [Moveable type printing press](https://en.wikipedia.org/wiki/History_of_printing) 
 
-church and state monopoly served censorship
+church and state monopoly served censorship in a waning [feudal context](https://en.wikipedia.org/wiki/Feudalism#End_of_European_feudalism_(1500%E2%80%931850s))
 
 [Stationer's Guild in UK](https://en.wikipedia.org/wiki/Worshipful_Company_of_Stationers_and_Newspaper_Makers) had monopoly from 1557. Expired.
 
