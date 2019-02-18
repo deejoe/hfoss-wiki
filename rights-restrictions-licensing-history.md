@@ -1,16 +1,16 @@
 
 ### Rights, restrictions, and licensing: History
 
-An attempt to put the history of FOSS in the context of the broader sweep of 
+An attempt to put the [history of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software) in the context of the broader sweep of 
 history.
 
 ### through 15th century:
 
-Moveable type printing press 
+[Moveable type printing press](https://en.wikipedia.org/wiki/History_of_printing) 
 
 church and state monopoly served censorship
 
-Stationer's Guild in UK had monopoly. Expired.
+[Stationer's Guild in UK](https://en.wikipedia.org/wiki/Worshipful_Company_of_Stationers_and_Newspaper_Makers) had monopoly from 1557. Expired.
 
 ### through the 18th Century
 
@@ -95,10 +95,10 @@ Forgot to mention 1970s birth (MITS ALTAIR, MS BASIC) and rise (IBM, Apple, TRS-
 
 ### 1980s 
 
-  * copyright comes to software, 
-  * university tech transfer offices (Dole-Bayh Act) 
+  * [copyright comes to software (US, Apple v. Franklin)](https://en.wikipedia.org/w/index.php?title=Software_copyright&oldid=882395503#History_of_software_copyrights_in_the_United_States), 
+  * university tech transfer offices ([Dole-Bayh Act](https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act)) 
     * business formed from University efforts, NDAs
-  * break-up of original AT&T: It could sell Unix licenses
+  * [break-up of original AT&T](https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System): It could sell Unix licenses
   * IBM PC
   * Macintosh
 
