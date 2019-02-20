@@ -1,16 +1,16 @@
 
 ### Rights, restrictions, and licensing: History
 
-An attempt to put the history of FOSS in the context of the broader sweep of 
-history.
+An attempt to put the [history of FOSS](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software) in the context of the broader sweep of 
+history, mostly but not entirely in a US context.
 
 ### through 15th century:
 
-Moveable type printing press 
+[Moveable type printing press](https://en.wikipedia.org/wiki/History_of_printing) 
 
-church and state monopoly served censorship
+church and state monopoly served censorship in a waning [feudal context](https://en.wikipedia.org/wiki/Feudalism#End_of_European_feudalism_(1500%E2%80%931850s))
 
-Stationer's Guild in UK had monopoly. Expired.
+[Stationer's Guild in UK](https://en.wikipedia.org/wiki/Worshipful_Company_of_Stationers_and_Newspaper_Makers) had monopoly from 1557. Expired.
 
 ### through the 18th Century
 
@@ -80,25 +80,25 @@ AT&T monopoly, consent decree restricting it from computing business
 
 ### late 1960s
 
-Multics --> Spacewar+PDB --> C+Unix --> Berkeley
+Multics --> Spacewar+PDB --> C+[Unix](https://en.wikipedia.org/wiki/File:Unix_history-simple.svg) --> Berkeley
 
 ### 1970s 
 
-Honeywell vs. Sperry-Univac case breaks fundamental computing patents.
+[Honeywell vs. Sperry Rand](https://en.wikipedia.org/wiki/Honeywell,_Inc._v._Sperry_Rand_Corp.) ENIAC patents (licensed to IBM) were invalidated.
 
 deregulatory spirit, eg
 
   * airlines
   * homebrewing
 
-Forgot to mention 1970s birth (MITS ALTAIR, MS BASIC) and rise (IBM, Apple, TRS-80, TI-99/A, Timex/Sinclair, etc) of the personal computer using integrated circuit microprocessors.
+1970s birth ([MITS ALTAIR](https://en.wikipedia.org/wiki/Altair_8800), [MS BASIC](https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists)) and rise (IBM, Apple, TRS-80, TI-99/A, Timex/Sinclair, etc) of the personal computer using integrated circuit microprocessors.
 
 ### 1980s 
 
-  * copyright comes to software, 
-  * university tech transfer offices (Dole-Bayh Act) 
+  * [copyright comes to software (US, Apple v. Franklin)](https://en.wikipedia.org/w/index.php?title=Software_copyright&oldid=882395503#History_of_software_copyrights_in_the_United_States), 
+  * university tech transfer offices ([Dole-Bayh Act](https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act)) 
     * business formed from University efforts, NDAs
-  * break-up of original AT&T: It could sell Unix licenses
+  * [break-up of original AT&T](https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System): It could sell Unix licenses
   * IBM PC
   * Macintosh
 
@@ -130,7 +130,7 @@ Proprietary Unix versions: SunOS, Solaris, IRIX, AIX, HP-UX, Ultrix, Xenix
 
 Puts it on Usenet (store-and-forward, "news", groups, subscribe, tracked what was read) and FTP (pre HTTP file transfer, see also gopher)
 
-Linux kernel + GNU utilities --> a useful system
+[Linux kernel](https://en.wikipedia.org/wiki/Linux_distribution#/media/File:Linux_Distribution_Timeline.svg) + GNU utilities --> a useful system
 
 grew alongside the BSDs 
 
