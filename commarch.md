@@ -39,16 +39,20 @@ assign roles to team members, and otherwise address the items from [teamproposal
 Follow the instructions included in the "Git By A Bus" repository on Github
 to generate a report on your selected project, available here:
 
-https://github.com/tomheon/git_by_a_bus/tree/v2 (More powerful but output is raw. Run it as gbab.py)
+[Git by a bus version 2](https://github.com/tomheon/git_by_a_bus/tree/v2) (More powerful but output is raw. Run it as gbab.py)
 
 or, alternately:
 
-https://github.com/ryansb/gitbyatruck
+[Git by a truck](https://github.com/ryansb/gitbyatruck)
 
 or any newer forks of the above.
 
+[Git by a lion](https://github.com/liam-middlebrook/git_by_a_lion) might be 
+useful for generating presentations from GBAB v2.
+
 You may wish first to run GBAB on itself, or on another small trial project
-like https://github.com/FOSSRIT/sugar-quickstart
+like 
+[Sugar Activity quickstart](https://github.com/FOSSRIT/sugar-quickstart)
 
 ### 5.  Calculate your project's "Callaway Coefficient of Fail"
 
