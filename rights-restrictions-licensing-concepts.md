@@ -15,11 +15,11 @@ of various mechanisms and norms in support of software freedom and collaboration
 
 ### 5 Concepts
 
+  * Trade Secret
+  * Public domain
   * Copyright
   * Patent
   * Trademark
-  * Trade Secret
-  * Public domain
 
 These are often referred to as **intellectual property** which invokes a
 comparison with physical things, such as **real property** or **personal property**,
@@ -39,6 +39,29 @@ and, of course, all the things covered by these concepts are non-physical, and t
 The Free Software Foundation considers these differences so stark, and their
 inclusion together under a single term so misleading, as to
 [recommend never using the term "intellectual property".](https://www.gnu.org/philosophy/words-to-avoid.html#IntellectualProperty)
+
+The essential question is, why all the fuss about licensing?
+
+When things are not [born free](https://en.wikipedia.org/wiki/Born_Free), how can we share them with each other and work together on them and with them?
+
+#### Trade Secrets
+
+  * Covers whatever one can keep secret
+  * Last for however long you can keep it secret
+  * Often assisted by contracts in the form of non-disclosure agreements (NDA)
+    * If NDA's have an expiry date, this **can** put a limit on how long something can be kept secret
+  * obviously works very differently than copyright on published works
+  * absent copyright or patent restrictions ([cf *state of nature*](https://en.wikipedia.org/w/index.php?title=State_of_nature&oldid=882399986)), this would be the default way of restricting use
+
+#### Public domain
+
+  * describes the set of creative works and inventions the use of which is not restricted
+  * how sharing might happen in a **state of nature**
+  * expiry of patents and of copyrights allows those works into the public domain
+  * in US, federal government can't take copyright, so fed works goes straight to public domain
+    * but not for contracted work, cf Bayh-Dole Act, 1980
+  * documenting prior authorship could help against copyright restriction
+  * documenting **prior art** could help against patent restriction
 
 #### Copyright
 
@@ -85,22 +108,6 @@ algorithm regardless of how it is expressed.
   * Can be registered to strengthen remedies for infringement. 
   * Not in the Constitution explicitly, but managed alongside patents at USPTO.
 
-#### Trade Secrets
-
-  * Covers whatever one can keep secret
-  * Last for however long you can keep it secret
-  * Often assisted by contracts in the form of non-disclosure agreements (NDA)
-    * If NDA's have an expiry date, this **can** put a limit on how long something can be kept secret
-  * obviously works very differently than copyright on published works
-  * absent copyright or patent restrictions, this would be the default way of restricting use
-
-#### Public domain
-
-  * covers creative works and inventions not restricted by the above
-  * expiry of patents and of copyrights allows those works into the public domain
-  * in US, federal government can't take copyright, so fed works goes straight to public domain
-  * documenting prior authorship could help against copyright restriction
-  * documenting **prior art** could help against patent restriction
 
 Additional concepts:
 
