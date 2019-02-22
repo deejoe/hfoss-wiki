@@ -40,7 +40,7 @@ The Free Software Foundation considers these differences so stark, and their
 inclusion together under a single term so misleading, as to
 [recommend never using the term "intellectual property".](https://www.gnu.org/philosophy/words-to-avoid.html#IntellectualProperty)
 
-The essential question is, why all the fuss about licensing?
+**The essential question is, why all the fuss about licensing?**
 
 When things are not [born free](https://en.wikipedia.org/wiki/Born_Free), how can we share them with each other and work together on them and with them?
 
