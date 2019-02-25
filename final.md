@@ -20,6 +20,8 @@ for that wiki. This is a manual process so please begin right away.
 You may find the [NY State math standards](http://www.nysed.gov/curriculum-instruction/new-york-state-next-generation-mathematics-learning-standards) 
 helpful. Pay special note to the 4th grade curriculum (p55 in the PDF from circa 2019).
 
+A [previous version of the standards](https://web.archive.org/web/20180526180619/http://www.p12.nysed.gov/ciai/mst/math/standards/revisedg4.html) has been archived and may be useful for comparison.
+
 Though out-of-date in several respects, this guide to developing a desktop
 activity for the XO
 by IBM is a good general overview to [using a separate development environment](https://www.ibm.com/developerworks/linux/tutorials/l-sugarpy/)
