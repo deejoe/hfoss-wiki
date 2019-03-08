@@ -7,6 +7,8 @@
   * [first literature review](litreview1)
   * [second literature review](litreview2)
   * [bugfix](bugfix)
+  * [teamproposal](teamproposal) for [commarch](commarch)
+  * [teamproposal](teamproposal) for [final](final)
 
 ## Presentations & Exercises
 
@@ -40,7 +42,7 @@
   * [course wiki](https://github.com/ritjoe/hfoss/wiki)
   * [ofcourse instance](http://hfoss.rocfoss.org) [participants](http://hfoss.rocfoss.org/participants)
   * [Main course github repo](https://github.com/ritjoe/hfoss)
-  * [HFOSS LIbrary](https://github.com/ritjoe/hfoss-library)
+  * [HFOSS Library](https://github.com/ritjoe/hfoss-library)
 
 
 
