@@ -9,7 +9,7 @@ Spring 2019
 ##### A: *3 Steps:*
 
 
-###### 1 Create a blog post that includes each question, with the answer to each question below it, on your HFOSS Blog you set up in [*First Flight*](/hw/firstflight).
+###### 1 Create a blog post that includes each question, with the answer to each question below it, on your HFOSS Blog you set up in [firstflight](firstflight).
 ###### 2 Add a 'quiz1: ' line to the .yaml file you edited in [firstflight](firstflight), with the link to your post.
 ###### 3 Send deejoe a pull request with this addition to your .yaml file to submit your quiz answers.
 
