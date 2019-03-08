@@ -19,17 +19,17 @@ Longer posts, or additional posts, will describe your graded work and constitute
 #### Length guidelines
 
 
- * at least 100 words per topic
+ * at least 250 words per topic
  * no more than 1000 words per week
 
 I'll try not to fuss too much about length. Quality, rather than quantity, is what I'm after.
 
 #### Blog rubric
 
-  * 1 points for not too long/short
+  * 2 points for not too long/short
   * 1 points for grammar, spelling, formatting
-  * 1 points for having citations or external links
-  * 1 points for being HFOSS related, obvious or explained
+  * 2 points for having citations or external links
+  * 3 points for being HFOSS related, obvious or explained
   * 2 points for compelling content 
 
   *  substantive
