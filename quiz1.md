@@ -4,6 +4,17 @@ Humanitarian Free and Open Source Software
 Spring 2019
 -----------
 
+#### Q: *How do I quiz?*
+
+##### A: *3 Steps:*
+
+
+###### 1 Create a blog post that includes each question, with the answer to each question below it, on your HFOSS Blog you set up in [*First Flight*](/hw/firstflight).
+###### 2 Add a 'quiz1: ' line to the .yaml file you edited in [firstflight](firstflight), with the link to your post.
+###### 3 Send deejoe a pull request with this addition to your .yaml file to submit your quiz answers.
+
+NB: This is an "open computer" quiz, but please, no talking during the quiz. Direct questions to the instructor via IRC.
+
 ### Quiz \#1
 
 *HFOSS is not a lawyer, and this does not constitute legal advice.*
@@ -129,7 +140,7 @@ a\) repository b) branch c) remote d) fork e) clone
 
 
 
-10\) A separate, but related, repository from which one may fetch or pull changes into one's own working copy, and to which in some instances one might have permission to push changes from one's own working copy. (1 pt)
+10\) A separate, but related, repository from which one may fetch or pull changes into one's own working copy, and to which one possibly has permission to push changes. (1 pt)
 
 a\) repository b) branch c) remote d) fork e) clone
 
@@ -186,7 +197,7 @@ g) be34fb47c60d
 
 ```
 
-Looking just at the string of non-space characters to the right of the close-parenthesis ...
+Looking **just** at the string of non-space characters to the right of the close-parenthesis ...
 
 
 List which of these **could** be a valid commit identifier?
@@ -202,13 +213,15 @@ List which of these **could** be a valid commit identifier?
 
 14\) We've discussed "the four R's" as a shorthand for the freedoms
 attached to software for it to be considered "free" or "open source".
+
 List or describe each. (eg, if you can remember the "r" word you can
 just give that. If you cannot remember the term, but can describe the
-freedom involved, that also counts). Various "r" words are roughly
-synonymous for some of the freedoms, but we're counting freedoms here,
-not synonyms so if you give two (or more) terms for the same freedom, it
-only counts once. For the purposes of this quiz, "remix" does not count
-as describing any of them. (1pt each)
+freedom involved, that also counts). 
+
+Various "r" words are roughly synonymous for some of the freedoms, but we're 
+counting freedoms here, not synonyms so if you give two (or more) terms for 
+the same freedom, it only counts once. For the purposes of this quiz, 
+"remix" does not count as describing any of them. (2 pt each)
 
 -   10.1)
 
@@ -226,15 +239,5 @@ as describing any of them. (1pt each)
 
 
 -   10.4)
-
-
-#### Q: *How do I quiz?*
-
-##### A: *3 Steps:*
-
-
-###### 1 Create a blog post that includes each question, with the answer to each question below it, on your HFOSS Blog you set up in [*First Flight*](/hw/firstflight).
-###### 2 Add a 'quiz1' line to the .yaml file you edited in first flight, with the link to your post.
-###### 3 Send deejoe a pull request with this addition to your .yaml file to complete the quiz.
 
 
