@@ -62,9 +62,17 @@ https://github.com/ritjoe/hfoss/blob/master/assets/tomspotcallaway-howtotellifyo
 
 See also: https://www.theopensourceway.org/wiki/How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL
 
-### 5a. (Alternate analysis tool) Use some other method to attempt to quantify the quality of the project
+### 5a. (Alternate analysis tool) Use some other method to attempt to quantify the quality of the project 
 
-This will entail making a sort of mini-proposal to get the method approved by the instructor before using it.
+For example, stand up your own copy of 
+
+http://oss-watch.ac.uk/apps/openness/
+
+(not for functional necessity, but demonstrating effective ability to fork upstream)
+
+and using that to evaluate your target project.
+
+**NB: To use an optional method like this, write a proposal and get the method approved by the instructor before using it.**
 
 ### 6.  Dig deeper. Provide answers to the following questions:
 
