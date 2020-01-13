@@ -28,7 +28,8 @@ other files.
 ### How it works
 
 Add entries throughout the week. Add new entries at the top. Place a
-Markdown header at the top of each entry. I use a datestamp, but you can use
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+header at the top of each entry. I use a datestamp, but you can use
 another method if you like, so long as new ones keep being added to the top.
 
 
