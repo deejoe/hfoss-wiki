@@ -2,18 +2,19 @@
 
 | Graded activity                                            | count | pts each | pts total |
 |------------------------------------------------------------+-------+----------+-----------|
-| Participation & Practices                                  |    42 |        5 |       210 |
-| Weekly Blog                                                |    12 |       10 |       120 |
+| Participation & Practices                                  |    39 |        3 |       119 |
+| Weekly Blog                                                |    12 |        5 |        60 |
+| Weekly Journal                                             |    48 |        3 |       144 |
 | Quizzes                                                    |     2 |       20 |        40 |
-| Literature Review                                          |   >=2 |       20 |      >=40 |
+| Literature Review                                          |   >=4 |       20 |      >=80 |
 | Meetups                                                    |   >=2 |      ~20 |       ~40 |
 | First flight                                               |     1 |      100 |       100 |
-| Smoketest                                                  |     2 |       30 |        60 |
+| Smoketest/Tooling-up                                       |     2 |       30 |        60 |
 | Bug fix                                                    |   >=1 |     >=50 |      >=50 |
 | Team Project 1: CommArch (Peer eval & presentation)        |     1 |      100 |       100 |
 | Team Project 2: Sugar Activity (Peer eval, pres, and repo) |     1 |      400 |       400 |
 |------------------------------------------------------------+-------+----------+-----------|
-| Total possible points                                      |       |          |      1160 |
+| Total possible points                                      |       |          |      1191 |
 
 points earned x 4.0 / total possible points = grade on a 4 pt scale
 
