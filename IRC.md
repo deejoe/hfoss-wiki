@@ -55,7 +55,7 @@ You may eventually find these more advanced topics useful
 **Freenode is a free and open source software community.**  Its emphasis is more
 on supporting FOSS developers and users rather than producing software
 directly.  As such we might include it in our broader study of FOSS
-communities and practices, nothing for instance its stated
+communities and practices, noting for instance its stated
 [philosopy](https://freenode.net/philosophy) and
 [policies](https://freenode.net/policies) and comparing and contrasting to
 other FOSS communities.
@@ -94,7 +94,7 @@ to IRC also apply and deserve a good look, too.
 ## Bots
 
 The interactive behavior associated with some of the nicks in a channel are
-not directly guided by a human operator. Rather, these are autonoma,
+not directly guided by a human operator. Rather, these are automata,
 programs designed to connect to a channel to carry out various tasks, aka
 **bots**. (See [IRC bot](https://en.wikipedia.org/wiki/IRC_bot)
 
