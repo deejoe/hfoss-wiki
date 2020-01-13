@@ -22,9 +22,8 @@
 <a name="course-info"></a>
 
  -   **Instructor** - D. Joe Anderson [<deejoe@mail.rit.edu>](mailto:deejoe@mail.rit.edu)
- -   **Office:** MSS-3190, MSS-2175, GOL-3450
- -   **Office Hours:** Tuesday 5:00-5:30, MWF 10:05-10:45 am, by appointment
- -   **Teaching Assistant** - None 
+ -   **Office:** Magic Spell Studios (MSS)-3190 (conference room)
+ -   **Office Hours:** Thursday 5:00-7:00pm or by appointment
  -   **IRC** - irc.freenode.net, #rit-foss
 
  The source for this syllabus can be found at [<https://github.com/ritjoe/hfoss>](https://github.com/ritjoe/hfoss)
