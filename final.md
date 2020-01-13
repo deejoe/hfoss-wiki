@@ -32,18 +32,30 @@ You may wish to start by building some easy first project examples, [Hello World
 
 ## Steps
 
+### Brainstorm project ideas individually
+
+We'll use these ideas for team formation.
+
 ### Form a team.
+
 Seek a diverse set of skills in your team.
 
+Form around one or two project ideas. 
+
 ### Propose a project.
+
 Be sure to note what curricular components are included.
 Assign roles to team members.
+
+### Track work-in-progress
+
+Create issues. Make commits. Document your work in your journals.
 
 ### Demonstrate some proof-of-concept
 
 ### Demonstrate a prototype
 
-### Demonstrate final game
+### Present and demonstrate final game
 
 
 
