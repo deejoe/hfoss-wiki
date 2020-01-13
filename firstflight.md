@@ -76,7 +76,9 @@ for posterity should occur here. Upstream projects usually have an
 existing mailing list where messages of these sort are to be posted.
 
 
-## Blogging
+## Writing: Journaling & Blogging
+
+You will create and use a [journal](journal)
 
 You must create a blog (if you don’t have one already) and write at
 least one post per week about your progress, attempts, successes,
