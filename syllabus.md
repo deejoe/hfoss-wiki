@@ -91,35 +91,173 @@ the instructor during the first week of class to make other arrangements.
 
 ## Schedule
 
-Please see this living [schedule](schedule) which should be updated
+Please continue to refer to this living [schedule](schedule) which should be updated
 throughout the semester.
+
+
+### Week 1
+
+Introduce the course: syllabus, grading, schedule
+
+Instructor and student introductions
+
+Assign: firstflight
+
+Begin using IRC
+
+Begin using email mailing list
+
+Begin working with course GitHub repo
+
+Introduce writing exercises: journal and blog
+
+Introduce bugfix & bugfix XC 
+
+Introduce lightning talks (LT)
+
+Introduce meetup requirement
+
+Assign first reading: Constructionism
+
+### Week 2
+
+It's all text
+
+Introduce version control, forges, git history.
+
+Using git 1
+
+Assign bugfix
+
+LT
+
+### Week 3
+
+give pedagogy lecture
+
+introduce sugar project
+
+sugar web page
+
+sugarizer
+
+Using git 2
+
+first reading due: Constructionism
+
+Assign second reading: Tatham bug reports
+
+Using git 3
+
+LT
+
+### Week 4
+
+second reading due: Tatham bug reports
+
+Assign third reading: curriculum
+
+install vms
+
+Rights, restrictions, and licensing (rrl): History
+
+Using git 4
+
+LT
+
+### Week 5
+
+third reading due: curriculum
+
+Assign fourth reading: Parrish
+
+FOSS collections
+
+rrl concepts
+
+Python environments
+
+LT
+
+Assign commarch
+
+Commarch brainstorm
+
+
+### Week 6
+
+Assign fourth reading due: Parrish
+
+Commarch teams
+
+License types
+
+LT
+
+ 
+### Week 7
+
+Bugfix due
+
+Review commarch progress
+
+
+### Week 8
+
+Review commarch progress
+
+### Week 9
+
+Brainstorm final project ideas
+
+Commarch presentations
+
+Open Culture
+
+
+### Week 10
+
+Form team, make repo, begin work: Final project
+
+
+### Week 11
+
+Discuss work-in-progress
+
+
+### Week 12
+
+Demonstrate proof of concept
+
+
+### Week 13
+
+Demonstrate prototype with significant functionality
+
+
+### Week 14
+
+Final projects due
+
+
+### Week 15
+
+final class and final exams
+
+LT, discussion of bugfixes and meetups. Contingency date for final project
+presentations.
+
+
 
 <a name="topics"></a>
 
 ## Topics
 
-  * intro 
-  * firstflight
-  ** exercise: IRC
-  ** exercise: email
-  * topic: it's all text
-  * topic: git before github
-  * smoketest1: VMs & local computing
-  * topic: rights, restrictions, licensing
-  * topic: constructionist pedagogy
-  * topic: Free Culture
-  * topic: Intro to SugarLabs
-  * smoketest2: Sugar, Sugarizer
-  * topic: Intro to humanitarian projects
-  * topic: Intro to python
-  * project: bugfix
-  * project: commarch
+Additional topics might include
+
   * topic: FOSS & security
   * topic: FOSS & privacy
   * topic: FOSS, inclusivity, privilege, diversity
-  * topic: FOSS sustainability
-  * topic: FOSS history
-  * project: game
 
 <a name="attendance"></a>
 
