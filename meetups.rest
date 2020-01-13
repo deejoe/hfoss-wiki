@@ -4,18 +4,18 @@
 
 ----
 
-HFOSS Meetups - Spring 2019
+HFOSS Meetups - Spring 2020
 ---------------------------
 
 ---- 
 
-Despite the Internet-mediated decentralized development of much FOSS, in person participation remains a vital aspect of building and maintaining FOSS communities. 
+Despite the Internet-mediated decentralized development of much FOSS, in-person participation remains a vital aspect of building and maintaining FOSS communities. 
 
 ----
 
 .. note: Short presentation for the new points system for meetups
 
-- Revised requirement: 2-6 out-of-class events depending on degree of difficulty
+- Revised requirement: 2-4 out-of-class events depending on degree of difficulty
 - 40 points total required, in any combination
 
 ---- 
@@ -27,6 +27,10 @@ The breakdown
 - 15 pts, on-campus hackathon >= 3 hrs (Software Freedom Day, hackathon)
 - 20 pts, off-campus in-town event (RocPy, Linux Workshop)
 - 30 pts, out-of-town event (eg, Hack Upstate, LibrePlanet)
+
+Up to 20 excess points are extra-credit. For example, if you do two
+out-of-town events for 60 points, you will get all 60 despite 40 being the
+requirement.
 
 ---- 
 
@@ -44,6 +48,7 @@ Qualified events
 
 Students have wide latitude in what sort of event they attend.
 
-Earning meetup credit depends less on the nature of the event and more about the students ability to **identify** the FOSS-related components of the event and to **document** in the corresponding blog post their involvement during the even with those components. 
+Earning meetup credit depends less on the nature of the event and more about the students ability to **identify** and **discuss** the FOSS-related components of the event and to **document** in the corresponding blog post their involvement during the even with those components. 
 
 The student may wish to compare and contrast those aspect of the event that relate to FOSS with those that do not, or drawing such comparisons between the event in question and other events.
+
