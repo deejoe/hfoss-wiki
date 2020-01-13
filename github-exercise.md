@@ -18,15 +18,30 @@ git clone https://github.com/myusername/hfoss
 cd hfoss
 cd ofcourse-content
 cd people
-cd 2019
+```
+
+Check whether the next two levels of subdirectories exist:
+
+```
+ls 2020/spring
+```
+
+if that gives an error and depending on when you forked, you may need to create these subdirectories:
+
+```
+mkdir -p 2020/spring
+```
+
+If they exist, descend into them:
+
+```
+cd 2020
 cd spring
 ```
 
-Depending on when you forked, you may need to create the subdirectories:
+Ensure the your position in the filesystem includes the path components `hfoss/ofcourse-content/people/spring/2020`
 
-```
-mkdir -p 2019/spring
-```
+
 
 Create a feature branch:
 
@@ -74,6 +89,4 @@ Return to a web browser and navigate to the page for your fork.
 Navigate under `branches` to `firstflight`
 
 Click to create a pull request.
-
-
 
