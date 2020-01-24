@@ -19,7 +19,7 @@ lack of clarity in the project's documentation.
 Broadly, you have two different options here. You can:
 
   * Find a known bug (or feature enhancement) listed in the project's bug tracker.
-  * Find a bug yourself by using the software (this may take a while...)
+  * Find a bug yourself by using the software (for 2nd and subsequent extra-credit bugs ONLY. Also, this may take a while...)
 
 In the event of the second case, make sure you file the bug in the project's tracker before proceeding.)
 
@@ -69,7 +69,8 @@ possible to documentation.
 
 You will be graded on your post and the explanation of your process.
 Extra kudos (but not extra credit) for super epic patches. Extra credit
-(actual extra credit) for patches that are actually accepted upstream.
+(actual extra credit) for patches that are actually accepted upstream, both
+for the initial assignment and for any subsequently-accepted fixes.
 
 ### Submitting the Deliverable
 
