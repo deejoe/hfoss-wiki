@@ -4,6 +4,10 @@
 ## Assignments
 
   * [First Flight](firstflight)
+  * [reading1](reading1)
+  * [bugfix](bugfix)
+  * [reading2](reading2)
+  * [litreview1](litreview1)
 
 ## Presentations & Exercises
 
