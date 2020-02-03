@@ -16,6 +16,10 @@
   * [irc-exercise](irc-exercise)
   * [email-exercise](email-exercise)
   * [github-exercise](github-exercise)
+  * [ssh to saskia](ssh-to-saskia.md)
+  * [Virtual Machine intro with VirtualBox and Finnix](vm-intro-vb-finnix.md)
+
+
 
 ## Administration
 
