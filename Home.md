@@ -4,10 +4,12 @@
 ## Assignments
 
   * [First Flight](firstflight)
+  * [journal](journal)
   * [reading1](reading1)
   * [bugfix](bugfix)
   * [reading2](reading2)
   * [litreview1](litreview1)
+  * [reading3](reading3)
 
 ## Presentations & Exercises
 
@@ -16,8 +18,11 @@
   * [irc-exercise](irc-exercise)
   * [email-exercise](email-exercise)
   * [github-exercise](github-exercise)
+  * [git intro](git-intro)
   * [ssh to saskia](ssh-to-saskia.md)
-  * [Virtual Machine intro with VirtualBox and Finnix](vm-intro-vb-finnix.md)
+  * [Virtual Machine intro with VirtualBox and Finnix](vm-intro-vb-finnix)
+  * [Maintaining your hfoss fork](maintaining-your-hfoss-class-fork)
+  * [Using and clearing branches](using-and-clearing-branches)
 
 
 
