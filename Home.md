@@ -41,6 +41,6 @@
   * [ofcourse instance](http://hfoss.rocfoss.org) [participants](http://hfoss.rocfoss.org/participants)
   * [Main course github repo](https://github.com/ritjoe/hfoss)
   * [HFOSS Library](https://github.com/ritjoe/hfoss-library)
-
+  * [Planet HFOSS](https://people.rit.edu/djaigm/planet/hfoss)
 
 
