@@ -1,4 +1,6 @@
 
+# FOSS Survey
+
 ## Prepare a repository and working directory for your survey results
 
 Using gitbash, PuTTY or similar, ssh into ```saskia.igm.rit.edu``` or open 
@@ -14,7 +16,13 @@ You will place in this directory a file containing a list of (at least some
 of) the free and open source software packages you find installed on the lab 
 computers.
 
+
+## Survey lab machine software packages
+
 Look through the software on the systems. Identify what FOSS you can.
+
+
+## Document your findings 
 
 Using an editor on saskia, or some other means (eg, creating the file on
 another host and transferring it to saskia via ```filezilla```), create a
@@ -31,6 +39,9 @@ basename of your ```.yaml``` file, eg
 
 Add the file to your git repo, and then commit it to the git repo.  Follow
 your progress using ```git status``` and ```git log``` as you go.
+
+
+## Push the results
 
 If you already have your commits in a local branch named after yourself, and 
 you are on that branch, you can just
