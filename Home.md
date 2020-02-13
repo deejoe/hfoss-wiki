@@ -10,6 +10,7 @@
   * [reading2](reading2)
   * [litreview1](litreview1)
   * [reading3](reading3)
+  * [litreview2](litreview2)
 
 ## Presentations & Exercises
 
