@@ -24,29 +24,29 @@
 | w03d03    | Fri | Jan | LT, [[https://github.com/ritjoe/hfoss/wiki/software-license-types][license intro]]                                            |    31 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 | w04d01    | Mon | Feb | git3                                                         |    03 |                          |                           |                     |
-| w04d02    | Wed | Feb | repositories, bugfix progress                                |    05 |                          | blog03/[[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 parrish]]    |                     |
+| w04d02    | Wed | Feb | repositories, bugfix progress                                |    05 | [[https://github.com/ritjoe/hfoss/wiki/reading3][reading3 licenses]]        | blog03/[[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 parrish]]    |                     |
 | w04d03    | Fri | Feb | LT, [[https://github.com/ritjoe/hfoss/wiki/foss-survey-git-remote-exercise][foss-survey-git-remote]], d/l SoaS                         |    07 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 |           |     | Feb |                                                              |    08 |                          |                           | [[https://www.brickhack.io/][BrickHack]]           |
-|           |     |     |                                                              |   -09 |                          |                           |                     |
+|           |     |     |                                                              |    09 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w05d01    | Mon | Feb | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja2.odp][OLPCKidsA]]                                                    |    10 |                          |                           |                     |
+| w05d01    | Mon | Feb | [[rights-restrictions-licensing-concepts][rights, restrictions, licensing: Concepts]]                    |    10 |                          |                           |                     |
 |           | Tue | Feb |                                                              |    11 |                          |                           | [[https://rocpy.org/][RocPy]]               |
-| w05d02    | Wed | Feb | install sugar-live-build                                     |    12 |                          |                           |                     |
-|           |     |     |                                                              |       |                          | blog04                    |                     |
+| w05d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/wiki/intro-to-sugar-vb-vm][install sugar-live-build]]                                     |    12 | [[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2 OSS & FS]]      | blog04                    |                     |
+|           |     |     |                                                              |       |                          |                           |                     |
 | w05d03    | Fri | Feb | LT [[https://github.com/sugarlabs/sugar-docs/blob/master/src/desktop-activity.md][Sugar hello world]]                                         |    14 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 |           | Sat | Feb |                                                              |    15 |                          |                           | Linux Workshop      |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 | w06d01    | Mon | Feb | [[https://github.com/ritjoe/hfoss/wiki/rights-restrictions-licensing-history][Rights, restrictions, licensing: History]]                     |    17 |                          |                           |                     |
-| w06d02    | Wed | Feb | [[python-environments][python-environments]] et al                                    |    19 |                          | blog05                    |                     |
+| w06d02    | Wed | Feb | [[python-environments][python-environments]] et al                                    |    19 |                          | blog05/[[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2]]         |                     |
 |           |     |     |                                                              |       |                          |                           |                     |
-| w06d03    | Fri | Feb | [[rights-restrictions-licensing-concepts][rights, restrictions, licensing: Concepts]], LT                |    21 |                          |                           |                     |
+| w06d03    | Fri | Feb | [[commarch][commarch teams]]    LT                                         |    21 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 | w07d01    | Mon | Feb | [[rights-restrictions-licensing-concepts][rights, restrictions, licensing: Concepts]]                    |    24 |                          |                           |                     |
-| w07d02    | Wed | Feb |                                                              |    26 |                          | blog06                    | Career Fair         |
+| w07d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja2.odp][OLPCKidsA]]                                                    |    26 |                          | blog06                    | Career Fair         |
 |           |     |     |                                                              |       |                          |                           |                     |
-| w07d03    | Fri | Feb | LT  [[commarch][commarch teams]]                                           |    28 |                          |                           |                     |
+| w07d03    | Fri | Feb | LT                                                           |    28 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 |           |     |     |                                                              |  2/29 |                          | oh hey leap year          | [[https://wichacks.io/][WiCHacks]]            |
 |           |     |     |                                                              |  -3/1 |                          |                           |                     |
