@@ -24,7 +24,7 @@
   * [Virtual Machine intro with VirtualBox and Finnix](vm-intro-vb-finnix)
   * [Maintaining your hfoss fork](maintaining-your-hfoss-class-fork)
   * [Using and clearing branches](using-and-clearing-branches)
-
+  * [Sugar Hello World](sugar-hello-world)
 
 
 ## Administration
