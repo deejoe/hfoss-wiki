@@ -1,5 +1,5 @@
 # Humanitarian Free and Open Source Software
-  * Spring 2018 – D. Joe Anderson
+  * Spring 2020 – D. Joe Anderson
   * Original Design – Professor David Shein
   * Refinements – Remy DeCausemaker
 
