@@ -34,11 +34,11 @@
 |           | Tue | Feb |                                                              |    11 |                          |                           | [[https://rocpy.org/][RocPy]]               |
 | w05d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/wiki/intro-to-sugar-vb-vm][install sugar-live-build]]                                     |    12 | [[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2 OSS & FS]]      | blog04                    |                     |
 |           |     |     |                                                              |       |                          |                           |                     |
-| w05d03    | Fri | Feb | LT [[sugar-hello-world][Sugar hello world]]                                         |    14 |                          |                           |                     |
+| w05d03    | Fri | Feb | LT                                                           |    14 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 |           | Sat | Feb |                                                              |    15 |                          |                           | Linux Workshop      |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w06d01    | Mon | Feb |                                                              |    17 |                          |                           |                     |
+| w06d01    | Mon | Feb | [[sugar-hello-world][Sugar hello world]]                                            |    17 |                          |                           |                     |
 | w06d02    | Wed | Feb | [[commarch][commarch teams]]                                               |    19 |                          | blog05/[[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2]]         |                     |
 |           |     |     |                                                              |       |                          |                           |                     |
 | w06d03    | Fri | Feb | [[python-environments][python-environments]]   LT                                     |    21 |                          |                           |                     |
