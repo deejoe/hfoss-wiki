@@ -38,13 +38,13 @@
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
 |           | Sat | Feb |                                                              |    15 |                          |                           | Linux Workshop      |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w06d01    | Mon | Feb | [[https://github.com/ritjoe/hfoss/wiki/rights-restrictions-licensing-history][Rights, restrictions, licensing: History]]                     |    17 |                          |                           |                     |
-| w06d02    | Wed | Feb | [[python-environments][python-environments]] et al                                    |    19 |                          | blog05/[[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2]]         |                     |
+| w06d01    | Mon | Feb |                                                              |    17 |                          |                           |                     |
+| w06d02    | Wed | Feb | [[commarch][commarch teams]]                                               |    19 |                          | blog05/[[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2]]         |                     |
 |           |     |     |                                                              |       |                          |                           |                     |
-| w06d03    | Fri | Feb | [[commarch][commarch teams]]    LT                                         |    21 |                          |                           |                     |
+| w06d03    | Fri | Feb | [[python-environments][python-environments]]   LT                                     |    21 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w07d01    | Mon | Feb | [[rights-restrictions-licensing-concepts][rights, restrictions, licensing: Concepts]]                    |    24 |                          |                           |                     |
-| w07d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja2.odp][OLPCKidsA]]                                                    |    26 |                          | blog06                    | Career Fair         |
+| w07d01    | Mon | Feb | [[https://github.com/ritjoe/hfoss/wiki/rights-restrictions-licensing-history][Rights, restrictions, licensing: History]]                     |    24 |                          |                           |                     |
+| w07d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja2.odp][OLPCKidsA]]                                                    |    26 |                          | blog06/ [[commarch][commarch teams]]    | Career Fair         |
 |           |     |     |                                                              |       |                          |                           |                     |
 | w07d03    | Fri | Feb | LT                                                           |    28 |                          |                           |                     |
 |-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
