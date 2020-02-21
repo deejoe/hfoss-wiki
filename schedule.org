@@ -1,113 +1,113 @@
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| class day | dow | mon | topic                                                        |   dom | assignment               | due                       | notes               |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w01d01    | Mon | Jan | class intros, [[https://github.com/ritjoe/hfoss/wiki/syllabus][syllabus]] [[https://github.com/ritjoe/hfoss/wiki/meetups][meetups]]                               |    13 | [[https://github.com/ritjoe/hfoss/wiki/irc-exercise][irc-exercise]]  [ff,ng]    |                           | classes begin       |
-|           |     |     | [[https://github.com/ritjoe/hfoss/wiki/grading-policies][grading]], [[https://github.com/ritjoe/hfoss/wiki/attendance][attendance]], [[https://github.com/ritjoe/hfoss/wiki/schedule][schedule]]                                |       | [[https://github.com/ritjoe/hfoss/wiki/email-exercise][email-exercise]] [ff,ng]   |                           |                     |
-|           |     |     | [[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]] [[https://flossmole.org/system/files/forge%20timeline.png][forges timeline]]                                  |       | [[final][finalpresent]]             |                           |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w01d02    | Wed | Jan | intros continued                                             |    15 |                          | [[https://github.com/ritjoe/hfoss/wiki/irc-exercise][irc-exercise]]              |                     |
-|           |     |     | first flight continued, sugarizer                            |       |                          | [[https://github.com/ritjoe/hfoss/wiki/email-exercise][email-exercise]]            |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w01d03    | Fri | Jan | LT, git 1                                                    |    17 | [[http://hfoss.rocfoss.org/static/hw/how-constructivism-changed-education.html][reading1 constructionism]] |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           | Sat | Jan |                                                              |    18 |                          |                           | Linux Workshop      |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w02d01    | Mon | Jan | *****                                                        |    20 | **********               | ***                       | no classes - MLK Jr |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w02d02    | Wed | Jan | git 2, XO hw demo                                            |    22 |                          |                           |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w02d03    | Fri | Jan | LT, smoketest1 (PuTTY, saskia, vsc term/git/md)              |    24 | [[bugfix][bugfix]]                   | blog01/[[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]] (G)    |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w03d01    | Mon | Jan | [[https://github.com/ritjoe/hfoss/wiki/its-all-text][it's all text]]                                                |    27 |                          |                           |                     |
-| w03d02    | Wed | Jan | [[https://github.com/ritjoe/hfoss/wiki/its-all-text][it's all text]] (cont'd), [[https://github.com/ritjoe/hfoss/wiki/vm-intro-vb-finnix][smoketest2 (VirtualBox intro)]], FSF30 |    29 | [[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 parrish]]          |                           |                     |
-|           |     |     |                                                              |       | [[https://github.com/ritjoe/hfoss/wiki/reading2][reading2 tatham/bugs]]     | blog02                    |                     |
-| w03d03    | Fri | Jan | LT, [[https://github.com/ritjoe/hfoss/wiki/software-license-types][license intro]]                                            |    31 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w04d01    | Mon | Feb | git3                                                         |    03 |                          |                           |                     |
-| w04d02    | Wed | Feb | repositories, bugfix progress                                |    05 | [[https://github.com/ritjoe/hfoss/wiki/reading3][reading3 licenses]]        | blog03/[[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 parrish]]    |                     |
-| w04d03    | Fri | Feb | LT, [[https://github.com/ritjoe/hfoss/wiki/foss-survey-git-remote-exercise][foss-survey-git-remote]], d/l SoaS                         |    07 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           |     | Feb |                                                              |    08 |                          |                           | [[https://www.brickhack.io/][BrickHack]]           |
-|           |     |     |                                                              |    09 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w05d01    | Mon | Feb | [[rights-restrictions-licensing-concepts][rights, restrictions, licensing: Concepts]]                    |    10 |                          |                           |                     |
-|           | Tue | Feb |                                                              |    11 |                          |                           | [[https://rocpy.org/][RocPy]]               |
-| w05d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/wiki/intro-to-sugar-vb-vm][install sugar-live-build]]                                     |    12 | [[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2 OSS & FS]]      | blog04                    |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w05d03    | Fri | Feb | LT                                                           |    14 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           | Sat | Feb |                                                              |    15 |                          |                           | Linux Workshop      |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w06d01    | Mon | Feb | [[sugar-hello-world][Sugar hello world]]                                            |    17 |                          |                           |                     |
-| w06d02    | Wed | Feb | [[commarch][commarch teams]]                                               |    19 |                          | blog05/[[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2]]         |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w06d03    | Fri | Feb | [[python-environments][python-environments]]   LT                                     |    21 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w07d01    | Mon | Feb | [[https://github.com/ritjoe/hfoss/wiki/rights-restrictions-licensing-history][Rights, restrictions, licensing: History]]                     |    24 |                          |                           |                     |
-| w07d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja2.odp][OLPCKidsA]]                                                    |    26 |                          | blog06/ [[commarch][commarch teams]]    | Career Fair         |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w07d03    | Fri | Feb | LT                                                           |    28 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           |     |     |                                                              |  2/29 |                          | oh hey leap year          | [[https://wichacks.io/][WiCHacks]]            |
-|           |     |     |                                                              |  -3/1 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w08d01    | Mon | Mar | [[commarch][commarch]]                                                     |    02 |                          |                           |                     |
-| w08d02    | Wed | Mar |                                                              |    04 | final proj               | blog07                    |                     |
-|           |     |     |                                                              |       |                          | [[commarch][commarchteam]]              |                     |
-|           |     |     |                                                              |       |                          | [[bugfix][bugfix]]                    |                     |
-| w08d03    | Fri | Mar | LT                                                           |    06 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| class day | dow | mon | topic                                                        |   dom | assignment               | due                       | notes               |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| break     |     |     |                                                              |       |                          |                           |                     |
-|           | Tue | Mar |                                                              |    10 |                          |                           | [[https://rocpy.org/][RocPy]]               |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| class day | dow | mon | topic                                                        |   dom | assignment               | due                       | notes               |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           |     | Mar |                                                              | 14-15 |                          |                           | [[https://libreplanet.org/2019/][LibrePlanet]]         |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           |     |     |                                                              |       |                          |                           | [[https://gdconf.com/][GDC]] all week        |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w09d01    | Mon | Mar |                                                              |    16 |                          |                           |                     |
-| w09d02    | Wed | Mar |                                                              |    18 |                          | blog08                    |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w09d03    | Fri | Mar | LT                                                           |    20 | [[commarch][commarch]]                 |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           | Sat | Mar |                                                              |    21 |                          |                           | Linux Workshop      |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w10d01    | Mon | Mar | commarch work,  [[final][final team formation]]                         |    23 |                          |                           |                     |
-| w10d02    | Wed | Mar | [[commarch][commarch present]],  [[final][final team formation]]                      |    25 |                          | blog09,  [[commarch][commarch present]] |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w10d03    | Fri | Mar | [[final][final team formation]], LT                                     |    27 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w11d01    | Mon | Mar |                                                              |    30 |                          |                           |                     |
-| w11d02    | Wed | Apr |                                                              |    01 |                          | blog10                    |                     |
-|           |     |     |                                                              |       |                          | [[fina][finalproposal]]             |                     |
-| w11d03    | Fri | Apr | LT                                                           |    03 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w12d01    | Mon | Apr |                                                              |    04 |                          |                           |                     |
-| w12d02    | Wed | Apr |                                                              |    06 |                          | blog11                    |                     |
-|           |     |     |                                                              |       |                          |                           |                     |
-| w12d03    | Fri | Apr | LT                                                           |    10 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w13d01    | Mon | Apr |                                                              |    13 |                          |                           |                     |
-|           | Tue | Apr |                                                              |    14 |                          |                           | [[https://rocpy.org/][RocPy]]               |
-| w13d02    | Wed | Apr |                                                              |    15 |                          | [[final][finalpoc]]                  |                     |
-|           |     |     |                                                              |       |                          | blog12                    |                     |
-| w13d03    | Fri | Apr | LT                                                           |    17 |                          |                           |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           | Sat | Apr |                                                              |    18 |                          |                           | Linux Workshop      |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w14d01    | Mon | Apr |                                                              |    20 |                          |                           |                     |
-| w14d02    | Wed | Apr |                                                              |    22 |                          | [[final][finalproto]]                |                     |
-| w14d03    | Fri | Apr |                                                              |    24 |                          | [[final][play test]]                 |                     |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-|           | Sat | Apr |                                                              |    25 |                          |                           | [[https://www.rit.edu/imagine/][Imagine RIT]]         |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| w15d01    | Mon | Apr |                                                              |    27 |                          | [[final][finalpresent]]              | Last day of classes |
-|           | Tue | Apr |                                                              |    28 |                          |                           | Reading day         |
-| exam      | Wed | May |                                                              |    29 |                          | [[final][finalpresent]]              | [[https://www.rit.edu/calendar/1920.html][8-10:30 MSS-2175]]    |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
-| class day | dow | mon | topic                                                        |   dom | assignment               | due                       | notes               |
-|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+---------------------------+---------------------|
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| class day | dow | mon | topic                                                        |   dom | assignment               | due                           | notes               |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w01d01    | Mon | Jan | class intros, [[https://github.com/ritjoe/hfoss/wiki/syllabus][syllabus]] [[https://github.com/ritjoe/hfoss/wiki/meetups][meetups]]                               |    13 | [[https://github.com/ritjoe/hfoss/wiki/irc-exercise][irc-exercise]]  [ff,ng]    |                               | classes begin       |
+|           |     |     | [[https://github.com/ritjoe/hfoss/wiki/grading-policies][grading]], [[https://github.com/ritjoe/hfoss/wiki/attendance][attendance]], [[https://github.com/ritjoe/hfoss/wiki/schedule][schedule]]                                |       | [[https://github.com/ritjoe/hfoss/wiki/email-exercise][email-exercise]] [ff,ng]   |                               |                     |
+|           |     |     | [[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]] [[https://flossmole.org/system/files/forge%20timeline.png][forges timeline]]                                  |       | [[final][finalpresent]]             |                               |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w01d02    | Wed | Jan | intros continued                                             |    15 |                          | [[https://github.com/ritjoe/hfoss/wiki/irc-exercise][irc-exercise]]                  |                     |
+|           |     |     | first flight continued, sugarizer                            |       |                          | [[https://github.com/ritjoe/hfoss/wiki/email-exercise][email-exercise]]                |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w01d03    | Fri | Jan | LT, git 1                                                    |    17 | [[http://hfoss.rocfoss.org/static/hw/how-constructivism-changed-education.html][reading1 constructionism]] |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           | Sat | Jan |                                                              |    18 |                          |                               | Linux Workshop      |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w02d01    | Mon | Jan | *****                                                        |    20 | **********               | ***                           | no classes - MLK Jr |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w02d02    | Wed | Jan | git 2, XO hw demo                                            |    22 |                          |                               |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w02d03    | Fri | Jan | LT, smoketest1 (PuTTY, saskia, vsc term/git/md)              |    24 | [[bugfix][bugfix]]                   | blog01/[[https://github.com/ritjoe/hfoss/wiki/firstflight][firstflight]] (G)        |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w03d01    | Mon | Jan | [[https://github.com/ritjoe/hfoss/wiki/its-all-text][it's all text]]                                                |    27 |                          |                               |                     |
+| w03d02    | Wed | Jan | [[https://github.com/ritjoe/hfoss/wiki/its-all-text][it's all text]] (cont'd), [[https://github.com/ritjoe/hfoss/wiki/vm-intro-vb-finnix][smoketest2 (VirtualBox intro)]], FSF30 |    29 | [[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 parrish]]          |                               |                     |
+|           |     |     |                                                              |       | [[https://github.com/ritjoe/hfoss/wiki/reading2][reading2 tatham/bugs]]     | blog02                        |                     |
+| w03d03    | Fri | Jan | LT, [[https://github.com/ritjoe/hfoss/wiki/software-license-types][license intro]]                                            |    31 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w04d01    | Mon | Feb | git3                                                         |    03 |                          |                               |                     |
+| w04d02    | Wed | Feb | repositories, bugfix progress                                |    05 | [[https://github.com/ritjoe/hfoss/wiki/reading3][reading3 licenses]]        | blog03/[[https://github.com/ritjoe/hfoss/wiki/litrev1][litrev1 parrish]]        |                     |
+| w04d03    | Fri | Feb | LT, [[https://github.com/ritjoe/hfoss/wiki/foss-survey-git-remote-exercise][foss-survey-git-remote]], d/l SoaS                         |    07 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           |     | Feb |                                                              |    08 |                          |                               | [[https://www.brickhack.io/][BrickHack]]           |
+|           |     |     |                                                              |    09 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w05d01    | Mon | Feb | [[rights-restrictions-licensing-concepts][rights, restrictions, licensing: Concepts]]                    |    10 |                          |                               |                     |
+|           | Tue | Feb |                                                              |    11 |                          |                               | [[https://rocpy.org/][RocPy]]               |
+| w05d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/wiki/intro-to-sugar-vb-vm][install sugar-live-build]]                                     |    12 | [[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2 OSS & FS]]      | blog04                        |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w05d03    | Fri | Feb | LT                                                           |    14 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           | Sat | Feb |                                                              |    15 |                          |                               | Linux Workshop      |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w06d01    | Mon | Feb | [[sugar-hello-world][Sugar hello world]]                                            |    17 |                          |                               |                     |
+| w06d02    | Wed | Feb | [[commarch][commarch teams]]                                               |    19 |                          | blog05/[[https://github.com/ritjoe/hfoss/wiki/litrev2][litreview2]]             |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w06d03    | Fri | Feb | [[python-environments][python-environments]]   LT                                     |    21 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w07d01    | Mon | Feb | [[https://github.com/ritjoe/hfoss/wiki/rights-restrictions-licensing-history][Rights, restrictions, licensing: History]]                     |    24 |                          |                               |                     |
+| w07d02    | Wed | Feb | [[https://github.com/ritjoe/hfoss/blob/master/assets/OLPCKidsAdja2.odp][OLPCKidsA]]                                                    |    26 |                          | blog06/ [[commarch][commarch]] [[teamproposal][teamproposal]] | Career Fair         |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w07d03    | Fri | Feb | LT                                                           |    28 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           |     |     |                                                              |  2/29 |                          | oh hey leap year              | [[https://wichacks.io/][WiCHacks]]            |
+|           |     |     |                                                              |  -3/1 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w08d01    | Mon | Mar | [[commarch][commarch]]                                                     |    02 |                          |                               |                     |
+| w08d02    | Wed | Mar |                                                              |    04 | final proj               | blog07                        |                     |
+|           |     |     |                                                              |       |                          | [[commarch][commarchteam]]                  |                     |
+|           |     |     |                                                              |       |                          | [[bugfix][bugfix]]                        |                     |
+| w08d03    | Fri | Mar | LT                                                           |    06 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| class day | dow | mon | topic                                                        |   dom | assignment               | due                           | notes               |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| break     |     |     |                                                              |       |                          |                               |                     |
+|           | Tue | Mar |                                                              |    10 |                          |                               | [[https://rocpy.org/][RocPy]]               |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| class day | dow | mon | topic                                                        |   dom | assignment               | due                           | notes               |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           |     | Mar |                                                              | 14-15 |                          |                               | [[https://libreplanet.org/2019/][LibrePlanet]]         |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           |     |     |                                                              |       |                          |                               | [[https://gdconf.com/][GDC]] all week        |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w09d01    | Mon | Mar |                                                              |    16 |                          |                               |                     |
+| w09d02    | Wed | Mar |                                                              |    18 |                          | blog08                        |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w09d03    | Fri | Mar | LT                                                           |    20 | [[commarch][commarch]]                 |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           | Sat | Mar |                                                              |    21 |                          |                               | Linux Workshop      |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w10d01    | Mon | Mar | commarch work,  [[final][final team formation]]                         |    23 |                          |                               |                     |
+| w10d02    | Wed | Mar | [[commarch][commarch present]],  [[final][final team formation]]                      |    25 |                          | blog09,  [[commarch][commarch present]]     |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w10d03    | Fri | Mar | [[final][final team formation]], LT                                     |    27 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w11d01    | Mon | Mar |                                                              |    30 |                          |                               |                     |
+| w11d02    | Wed | Apr |                                                              |    01 |                          | blog10                        |                     |
+|           |     |     |                                                              |       |                          | [[fina][finalproposal]]                 |                     |
+| w11d03    | Fri | Apr | LT                                                           |    03 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w12d01    | Mon | Apr |                                                              |    04 |                          |                               |                     |
+| w12d02    | Wed | Apr |                                                              |    06 |                          | blog11                        |                     |
+|           |     |     |                                                              |       |                          |                               |                     |
+| w12d03    | Fri | Apr | LT                                                           |    10 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w13d01    | Mon | Apr |                                                              |    13 |                          |                               |                     |
+|           | Tue | Apr |                                                              |    14 |                          |                               | [[https://rocpy.org/][RocPy]]               |
+| w13d02    | Wed | Apr |                                                              |    15 |                          | [[final][finalpoc]]                      |                     |
+|           |     |     |                                                              |       |                          | blog12                        |                     |
+| w13d03    | Fri | Apr | LT                                                           |    17 |                          |                               |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           | Sat | Apr |                                                              |    18 |                          |                               | Linux Workshop      |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w14d01    | Mon | Apr |                                                              |    20 |                          |                               |                     |
+| w14d02    | Wed | Apr |                                                              |    22 |                          | [[final][finalproto]]                    |                     |
+| w14d03    | Fri | Apr |                                                              |    24 |                          | [[final][play test]]                     |                     |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+|           | Sat | Apr |                                                              |    25 |                          |                               | [[https://www.rit.edu/imagine/][Imagine RIT]]         |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| w15d01    | Mon | Apr |                                                              |    27 |                          | [[final][finalpresent]]                  | Last day of classes |
+|           | Tue | Apr |                                                              |    28 |                          |                               | Reading day         |
+| exam      | Wed | May |                                                              |    29 |                          | [[final][finalpresent]]                  | [[https://www.rit.edu/calendar/1920.html][8-10:30 MSS-2175]]    |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
+| class day | dow | mon | topic                                                        |   dom | assignment               | due                           | notes               |
+|-----------+-----+-----+--------------------------------------------------------------+-------+--------------------------+-------------------------------+---------------------|
 

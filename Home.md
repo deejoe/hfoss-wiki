@@ -11,7 +11,7 @@
   * [litreview1](litreview1)
   * [reading3](reading3)
   * [litreview2](litreview2)
-  * [commarch teams](commarch)
+  * [commarch teams](commarch) [team proposal](teamproposal)
 
 ## Presentations & Exercises
 
@@ -26,6 +26,7 @@
   * [Maintaining your hfoss fork](maintaining-your-hfoss-class-fork)
   * [Using and clearing branches](using-and-clearing-branches)
   * [Sugar Hello World](sugar-hello-world)
+  * [Intro to Sugar development using a VM](intro-to-sugar-vb-vm)
 
 
 ## Administration
