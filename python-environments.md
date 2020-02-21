@@ -13,15 +13,25 @@ python --version
 python3 --version
 ```
 
-## Virtual environments in Python 2
+## Virtual environments in Python 2 (deprecated)
 
+```
 virtualenv env-py2
 
 source env-py2/bin/activate
+```
 
 (note change in prompt)
 
-*Python 3 has a more elaborate set of tools for managing virtual environments*
+## Virtual environments in Python 3 
+
+```
+virtualenv -p python3 env-py3
+
+source env-py3/bin/activate
+```
+
+*For Python 3 one might also use* `pipenv`
 
 ## Installing from the Python Package Index (pypi)
 
@@ -30,12 +40,13 @@ See pypi.python.org
 ```
 pip install ofcourse
 ```
+
 *takes some time to install, note dependency resolution and warnings*
 
-```
 
 ## ofcourse: Populating a new course with example content
 
+```
 mkdir ofcourse-demo
 
 cd ofcourse-demo
@@ -46,6 +57,7 @@ ls
 
 ls -lR people
 ```
+
 *note file and directory structure*
 
 ```
@@ -69,9 +81,10 @@ ls
 ls -lR people
 
 ofcourse validate
+```
 
     # ofcourse run
     # point browser at https://localhost:5000
 
-```
+
 
