@@ -15,7 +15,9 @@ stack.
 
 ###  0. Propose candidate projects
 
-Propose 2 or 3 projects you'd like to look at. 
+Propose 2 or 3 projects you'd like to look at. Discuss them in your journal 
+or blog if you'd like, but this is not required. We'll discuss them in 
+class, so your attendance then is crucial.
 
 ### 1.  Choose your team. 
 
