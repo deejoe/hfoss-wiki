@@ -27,7 +27,7 @@
 *Example Github URL*
 
 
-## Commarch Assessment (Not Applicable for Commarch Team Assignment)
+## Commarch Assessment 
 
 *Include the results of your Commarch Report Below*
 
