@@ -12,6 +12,8 @@
   * [reading3](reading3)
   * [litreview2](litreview2)
   * [commarch teams](commarch) [team proposal](teamproposal)
+  * [commarch COVID](COVID-commarch)
+
 
 ## Presentations & Exercises
 
@@ -36,6 +38,7 @@
   * [Example grades table](grading-table)
   * [Schedule](schedule)
   * [Syllabus](syllabus)
+  * [Syllabus COVID addendum](syllabus-COVID-addenum-1)
 
 ## Resources
 
