@@ -32,16 +32,17 @@ below in which using the journal is one option.
 ### GitHub
 
 Because a great deal of GitHub remains proprietary and centralized, I try 
-not to rely heavily on many of its features and workflows that depend on 
-those features and can't be used readily outside of GitHub.
+not to rely heavily on many of its features, and workflows that depend on 
+those features, and that can't be used readily outside of GitHub.
 
 That said, if I'm going to use a proprietary, centralized web service for 
-renote collaboration, I'd pick the you-can-use-it-even-once-you-graduate 
+remote collaboration, I'd pick the you-can-use-it-even-once-you-graduate 
 GitHub any day over various of the heavily localized and 
 restrictively-licensed learning management systems.
 
 So, I'll be looking to immerse us further into the ways of GitHub to support 
-our collaborative work on the final projects. Stay tuned.
+our collaborative work on the final projects. Stay tuned (particularly to 
+the [course wiki site](https://github.com/ritjoe/hfoss/wiki)).
 
 
 ### Check-ins
