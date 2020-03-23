@@ -33,6 +33,7 @@
 
 ## Administration
 
+  * Remote check-in participation by [students](remote-student-check-in) and by the [instructor](remote-instructor-check-in)
   * [Attendance](attendance)
   * [Grading policy](grading-policies)
   * [Example grades table](grading-table)
