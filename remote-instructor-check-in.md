@@ -3,22 +3,18 @@
 
 ## Instructor check-ins
 
-Students are expected, at a minimum, to communicate the state of their work 
-in the class through several [weekly check-ins](remote-student-check-in).
+I'm going to try to set a **cadence** for applying my attention, 
 
-To complement that from the instructor's side of things, to accomodate the 
-wide variety of times in which check-ins from various students with various 
-schedules might arrive, and to help students know how soon, or how long, it 
-might take for their check-ins to get seen and then, possibly, to get acted 
-upon, I'm going to try to set a certain pace for myself.
+  * as a complement to student [weekly check-ins](remote-student-check-in)
+  * to accomodate the wide variety of times in which check-ins from various students with various schedules might arrive, and 
+  * to help students know how soon, or how long, it might take for their check-ins to get seen and then, possibly, to get acted 
+
 
 For instructor check-in, I'm going to divide the day up as follows:
 
-  * morning: 6am EDT to noon EDT (10:00 UTC to 16:00 UTC)
-
-  * afternoon: noon EDT to 5pm EDT (16:00 UTC to 21:00 UTC)
-
-  * evening: 5pm EDT to 10pm EDT (21:00 UTC to 01:00 UTC)
+  * *morning*: **6am EDT** to noon EDT (10:00 UTC to 16:00 UTC)
+  * *afternoon*: **noon EDT** to 5pm EDT (16:00 UTC to 21:00 UTC)
+  * *evening*: **5pm EDT** to 10pm EDT (21:00 UTC to 01:00 UTC)
 
 And will aim to spread my check-ins across the following schedule:
 
