@@ -9,7 +9,7 @@ There will be no group presentation in any form.
 
 Final deliverable will be an individual, not group, **report**, due via the 
 usual **blog post** submitted via GitHub pull-request mechanism on 
-**Wednesday March 25**.
+~~**Wednesday March 25**~~ noon EDT (17:00 UTC+1) **Friday March 27**.
 
 Briefly **introduce** the project, describing the nature of the project. What is 
 it? Is it a library or tooling, or is it targeted at end users? What 
