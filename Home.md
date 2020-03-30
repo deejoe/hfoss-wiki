@@ -13,7 +13,7 @@
   * [litreview2](litreview2)
   * [commarch teams](commarch) [team proposal](teamproposal)
   * [commarch COVID](COVID-commarch)
-  * [final introduction](final-intro-allremote-1.md)
+  * [final introduction](final-intro-allremote-1)
 
 ## Presentations & Exercises
 
