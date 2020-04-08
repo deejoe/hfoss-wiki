@@ -1,4 +1,10 @@
 
+# HFOSS Final Project (all remote variant)
+
+## Further description, task types and interrelationships, and student task choices
+
+### Further description
+
 Our task over the last week has been identifying candidate projects to work
 on, as per this [Final project introduction](final-intro-allremote-1).
 
@@ -17,7 +23,16 @@ For each existing Python project, you can choose *either* to describe it, or
 to develop a JavaScript counterpart for it to run in Sugarizer, but *not*
 both.
 
-https://github.com/ritjoe/hfoss/blob/master/assets/HFOSS-porting-teams.svg
+### Task types and interrelationships
+
+The apices of this triangle represent the types of tasks. 
+
+The sides of this triangle represent some of the ways to collaborate across
+task types.
+
+![working across tasks diagram](https://raw.githubusercontent.com/ritjoe/hfoss/master/assets/HFOSS-porting-teams.png)
+
+### Task choices
 
 
 |              | Project name                 | Language (py or js) | analyze? (X for yes) \<\-- either | or --> develop? (X for yes) |
