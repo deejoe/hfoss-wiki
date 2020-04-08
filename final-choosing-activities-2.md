@@ -42,3 +42,12 @@ task types.
 | **Choice 3** |                              |                     |                                   |                             |
 | **Choice 4** |                              |                     |                                   |                             |
 
+
+### Example choice combinations
+
+
+  * describe 2 JS, describe 2 Python
+  * describe 2 JS, develop 2 Python
+  * describe 1 JS, describe 1 Python, develop *different* Python
+
+ 
