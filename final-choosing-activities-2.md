@@ -41,6 +41,9 @@ task types.
 | **Choice 2** |                              |                     |                                   |                             |
 | **Choice 3** |                              |                     |                                   |                             |
 | **Choice 4** |                              |                     |                                   |                             |
+| **Alt 1**    |                              |                     |                                   |                             |
+| **Alt 2**    |                              |                     |                                   |                             |
+
 
 
 ### Example choice combinations
