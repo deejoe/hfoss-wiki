@@ -44,7 +44,7 @@ task types.
 | **Alt 1**    |                              |                     |                                   |                             |
 | **Alt 2**    |                              |                     |                                   |                             |
 
-
+(NB: If you do not have an editor or integrated development environment (IDE) configured to help you edit Markdwon you may wish to use something like [Dillinger](https://dillinger.io/) to get it into shape, or one of these [Markdown editors](https://opensource.com/article/18/11/markdown-editors)
 
 ### Example choice combinations
 
