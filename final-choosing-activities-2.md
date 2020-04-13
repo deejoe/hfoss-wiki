@@ -51,6 +51,7 @@ task types.
 
   * describe 2 JS, describe 2 Python
   * describe 2 JS, develop 2 Python
-  * describe 1 JS, describe 1 Python, develop *different* Python
+  * describe 2 JS, describe 1 Python, develop *different* Python
+  * describe 3 JS, develop 1 Python
 
  
